@@ -7,10 +7,30 @@
 			<li class="expanded menu-item" role="presentation">
 					<a href="/climatechange" title="Title" class="menu-link" role="menuitem">Climate Change Home</a>
 					<ul class="menu">
-						<li class="menu-item"><a href="/climate-change-science" title="" class="menu-link">Sub Menu</a></li>	
+						<li class="menu-item">
+                            <a href="/climate-change-science" title="" class="menu-link">Sub Menu</a>
+                        </li>	
 					</ul>
 			</li>
 		</ul>
     </div>
 </nav>
 </div>
+
+<script>
+
+   //For menu items
+    var $mainMenu = $('.main-nav').find('> .nav__inner > .menu');
+    $topItems = $mainMenu.find('> .menu-item');
+    $topLinks = $topItems.find('> .menu-link');
+
+
+    $topItems.hover(
+        function () {
+            $(this).parent().addClass("show-menu");
+        },function() {
+            $(this).parent().removeClass("show-menu");
+        }
+    );
+
+</script>
