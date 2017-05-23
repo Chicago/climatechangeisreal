@@ -1,0 +1,238 @@
+
+
+
+
+
+
+EPA
+
+Moderator:	Lou Witt
+August 24, 2011
+2:00 p.m. ET
+
+
+Operator:	Good afternoon.  My name is (Misty) and I'll be your conference operator today.  At this time I would like to welcome everyone to the Radon in Schools, What You Need to Know conference call.  All lines have been placed on mute to prevent any background noise.  If you should need assistance during the call please press star then zero and an operator will come back online to assist you.  Thank you.  Mr. Lou Witt you may begin your conference.
+
+Lou Witt:	Thank you, (Misty).  Good afternoon, ladies and gentlemen, my name is Lou Witt, I'm with the EPA's indoor environments division and I'm the co-host of our indoor air quality and large buildings webinar.  And today we're going to focus on radon in schools and share with you what you need to know about radon in schools.  But before we get started with the full content of the webinar I'm going to turn it over to my colleague (Andrew) who’s going to share with you the technology associated with the webinar and how you might be able to use it.  (Andrew)?
+
+(Andrew):	Hi Lou.  Great.  Thanks.  In the upper right hand side of your screen you'll see the webinar (console).  Use the buttons on the console side bar that look like the fast forward and rewind buttons to maximize and minimize the console.  By touching the button with the square inside you can also maximize or minimize the webinar presentation on your computer screen.  At the bottom of the maximize console you will notice the question feature.  Use this to type in any questions you may have during the presentation.
+
+	If you have a question or problem during the webinar please use the questions pane.  You can also maximize or minimize the questions pane by pressing the plus or minus sign and you can pop it out of the console into its own pane by pressing the triangle button.  To use the polling technology simply click on your selection and click submit.  Your results will be shown in real time during the webinar.  As an attendee your line will be muted to minimize background noise; to access the operator please dial star zero; to ask a question please use the questions pane.  If you need assistance please contact me using the questions pane.  
+
+	Finally you may notice a mouse moving during the webinar.  We apologize if this is distracting and we'll do our best to minimize it.  Go ahead, Lou.
+
+Lou Witt:	Thank you, (Andrew).  As I said earlier I'm Lou Witt with the EPA's indoor environments division and like all good government offices we have a mission statement.  What our mission statement boils down to, basically, is healthier buildings, healthier people.  The way the indoor environments division goes about that is we look at three general building types, homes, schools and commercial indoor spaces.  Within those spaces, within those different building types we look at a wide range of environmental pollutants that are found in the indoor environment.  Some of them are common, some of them are a little more specific but they are all very important and we address them in many different ways.
+
+	The way we're addressing radon in schools today is through a webinar where we hope to provide you with very practical information, information that you need to know.  And the way the webinar is structured what we're going to cover today is first the health risk associated with radon.  Radon's the number one cause of lung cancer for non-smokers in America and my colleague (Janie Palmer) will share information on that.  
+
+	Then we're going to look at how to approach radon in schools using the (IAQ) Tools for Schools key drivers approach.  This is a proven approach to address many, many different indoor environment issues within schools and we're going to look at how to apply the key drivers as we address radon in the school setting.
+
+	We're then going to turn over to two very knowledgeable, practical gentlemen in the Colorado springs school district number 11 who have hands on experience with radon testing and mitigating the schools in their school district.  We're going to hear their successes and they'll be available for questions time permitting.
+
+	And last but not least we're going to wrap up then with what resources are available.  Many of the resources we have to offer are available online; some of the resources are people resources, maybe more important than the material resources.  We're going to show you how to get in touch with some of these people and how you may be able to work together.  So that's what we're going to cover today in an hour; any one of these things that we could look at in great, great depth but we don't have the time and that's not the purpose.  I can say in the future we'll probably look at many of these issues in greater depth and greater detail but today is just a general overview of the practical approach; the Tools for Schools program offers as you address radon in schools.
+
+	So thank you for that.  At this time I'm going to turn it over to my colleague (Janie Palmer).  (Janie) is an environmental scientist here at EPA and has been associated with the schools and radon for probably longer than she'd like me to admit but she's a well-versed and well-grounded and I'll turn it over to you (Janie).
+
+(Janie Palmer):	Thanks, Lou.  Great.  I get to do the really fun stuff.  Since I can't see you and you can't see me I've inserted here illustrations to help simulate a face to face meeting.  And it's not happening because we're not face to face.  That's me in the middle, I'm (Janie), I'm a scientist for EPA indoor environments division, as Lou said.  In my former life I was an (IAQ) district in Florida.  So I can probably relate to many of you because when it comes to (IAQ) in schools I've probably been there, done that.
+
+	So let's talk about what we know about radon in your schools or even homes right now.  Using the (pulley) mechanism we're going to ask you a question.  Are we ready?  OK let's see what our results are here.  That's really good; that's really great.  OK.  
+
+	So whether radon is at home, school or other buildings or any combination really it gets there by the decay of natural occurring uranium that's found in soil, rocks and even water.  Mainly radon comes from the soil under a building and moves up through small, small cracks in foundation and flooding because of pressure differences between indoors and underneath the buildings, or the subsurface, for you technical people.
+
+	(Neal) and (Dan) from Colorado Springs are going to go through a typical scenario of how radon entered their school and how they mitigated it.  So we're going to ask another question what else do you know about radon?  
+
+	And the poll is now open.  Radon is – and I love B; it's got to be B, right?  I think I was drinking a caramel latte when I wrote this.
+
+Lou Witt:	But don't give away the answer.
+
+(Janie Palmer):	It's B, hint.  OK I think some people know the answer here.  Although three percent are drinking a latte right now, I can tell.  Yes, it is a colorless, odorless, radioactive gas and it does cause cancer.
+
+	Now several years ago a map of radon potential was created.  And it's fun to find your state and look at the pretty colors but don't confuse this map with a guideline for whether or not you should or must test for radon in your school or even your home.  Everyone take a look-see and find your state – OK, lots of fun.  Many thousands of classrooms have elevated radon levels.  I'm sure you can believe that 40 percent of schools that had elevated radon levels during an EPA national school radon survey they were found in Zone 1, which is the red or pink.  But you realize that that means the other 60 percent were in zones two and three.
+
+	So on that we're going to open another trivia question.  Let's review should you test for radon in Pennsylvania and Louisiana.  A question – are we good on that?  Good job.  So I didn't talk to you fast; you all got the point.  This now doesn't mean you should test or not.
+
+	So what do you do with the test results, you ask?  Well EPA does have a suggested protocol and you can see that it's fairly easy to navigate through, really.  The main thing is take the test, and then figure out what to do from there.  Were your test results lower than four?  Well you're probably OK.  It never hurts to confirm a few that might be close to four and also you should always be testing every couple of years or obviously according to state regulations.  But the main thing is you test; that's great.  And these are – this protocol is published on the EPA website and between the yellow or the green and the black there are a few caveats, like is it between four and ten; if it's between four and ten picocuries then you might want to retest with another quick short-term test and then consider the long-term test, which is about – it can be 30 to 90 days or even longer.
+
+	If you have results or one or two results that are greater than ten, you know, really high you would definitely want to do another short-term test, which is just a couple day tests and figure out what you're going to do if you do have a really high reading because you need to take some quick action that probably can't wait for the long-term test to be finished.
+
+	Do we have a polling question for this?  I don't think we do.  Let's move on from there because that's not really a very fun slide.  So just raise your hand – how do you know if a classroom in your school has high radon levels?  Yes, you test – that's the only way to know.  And what is a safe level of radon?  There is no known safe level of exposure to radon.  That means that the four picocuries per liter that you probably hear a lot, that's a guideline and really it doesn't mean that you're safe just because you're a four, it means that it's fairly low.  And remember that benefits can be gained even from mitigating a home or school or a building that has results that are four picocuries or even lower.  So just because you see the result four doesn't mean, "Hey, we're good, let's move on."
+
+	So (our product) is not rocket science to move on from the testing and start to mitigate but mitigation will take some monitoring and tweaking to work properly.  This is a typical mitigation system; it's soil depressurization, but you don't want to see all this; I know you don't.  It makes me dizzy.  This is really what you want to see.  A pipe in the subsurface, a fan to suck it out and a discharge above the roofline.  Simple.  Basically stick a pipe in it and let the soil gas vent.
+
+	Here we have a picture of what the depressurization system might look like on the outside, and here are a few implements to tinker with and to check and make sure that everything's working properly and also (Neal) and (Dan) are going to go in a lot more detail about what these different pictures really mean.
+
+	Well I wish I didn't have to leave you; I know it's been but, but my colleague Lou has some ideas to share with you about how to roll up your sleeves, jump in and start working on radon in your district.  I'll leave you with this question and if we have time at the end we can find out who knows the answer.  Other than that thanks so much for your time and I hope you enjoyed your radon primer with me.
+
+Lou Witt:	Thank you (Janie).  We'll take questions throughout and try to address them at the end of all the sessions.  In the mid Nineties EPA began addressing indoor air quality in schools and one of the first things EPA did to do that was to produce a very integrative, fairly comprehensive toolkit.  This was our tools for schools kit.  And it was well-received and well used, and several years later we said, "Well how can we make this even better and we took a good thing and said, "We've provided people with the tools; let's take a step back and see if we can't give them some better thoughts, some better ideas on how to use these tools.
+
+	We realized that the whole program could be looked at through this framework, and there's a myriad of environmental issues that the Tools for Schools framework can apply to.  And what we're going to do today is we're going to look at the issue of source control.  And radon definitely falls under that, as many of the ways to address radon are also applicable to other sources.
+
+	What we found in (Neal) and (Dan) are living proof of this, is that by using the Tools for Schools six key drivers of organization, communication, assessment, planning, action, and evaluation in all their phases you can have a successful program.  You can get a lot done on a very limited budget.  You can make a big difference within your school district in terms of its health, its productivity, the operation of the equipment, many, many benefits to addressing radon in schools.  And what we're here today is to show you how to apply the Tools for Schools six key drivers to that.  
+
+	Now what we've had the good fortune of working with through basically (Christine Kelly) at the State of Colorado, I have to thank her for introducing us to (Dan) and (Neal).  (Dan) and (Neal) are from the Colorado Springs School District Number 11 which is a moderately good-sized school district as school districts go.  Many buildings, many older buildings, and a fairly good-sized physical footprint.
+
+	As (Janie) mentioned in the late Eighties EPA did a lot of school testing and in some ways that prompted many states to also either mandate or require school testing.  So way back in 1990 Colorado Springs School District 11 did some testing and they found that there were some high buildings and they needed to take action to mitigate them.  And they did and there was success and things went on.  But things do change, and one thing about radon being a soil gas, as buildings settle, as the ground settles new avenues of entry open up, particularly if you're in areas that are prone to radon, the Zone 1 counties that (Janie) mentioned.  But even the Zone 2 counties and to an extent Zone 3 low radon counties all could have radon problems.  So that's why it's important to test regardless of where you live.
+
+	So back to the story.  In 2006 the idea was to retest, and that is a good idea and the rule of thumb is every two, five years you should retest, whether it's your home or your school.  So to make a good long story short and move forward to hearing from our experts on this I'm going to steal a part of (Neal) and (Dan)’s story and talk about how they organize for success.  They use the key driver to look at what has been done.  They went back and saw what had been done in 1990 and they compared the floor plans, what had been maybe a storage closet was now an office. 
+
+	Things change in schools rapidly, as you well know and knowing what those changes are a key to being organized because it allows you to move on to your assessment and that being the next – not necessarily the next key driver because the key drivers are not necessarily sequential, they're all pretty much simultaneous when you really sit down and look at them.  But the next one that we're going to look at is the assessment, and part of that was to determine what type of test kits to use.  (Janie) mentioned the short-term test kits; they have benefits over the other type, the long-term test kits.
+
+	There are also devices, electronic devices that give you pretty much an instantaneous reading on radon levels.  So determining what test device, what test kit to use is a critical part of your assessment.  And then as part of the assessment you also have to determine what your equipment's like.  As we'll see with (Neal) and (Dan)’s presentation there was two ways to address radon in schools.  There's the sub-slab depressurization that (Janie) showed you the diagram for but there's also HVAC controls and getting your system in proper balance has also proven to be an effective way to reduce radon levels, but fit the equipment's not working right can't go that route.  So part of your assessment is to figure out is your equipment properly maintained and operating.
+
+	And the last one that I'm going to share with you, a part of this success story is that it's communication.  And communication may be the most overlooked but perhaps the most necessary of all of these, without communication you're basically doing it all by yourself and you can't do it all by yourself.  So you need to communicate constantly and you never know where that communication's going to wind up.  In this case the new spread very fast that Colorado Springs School District 11 was going to begin testing and here it is in the newspaper.  But they were prepared for that and the actually have benefited from it.  I let the public know the school district was proactive, they had the students and the staff health foremost in their mind and they were doing the right thing.  
+
+	So having kind of set the stage what I'd like to do at this point is to turn it over to our two presenters today.  (Neal Case), who is a mechanical systems engineer out in Colorado Springs and his colleague (Dan Moore) who is an environmental specialist.  So (Dan) and (Neal) I'll turn it over to you please.
+
+(Dan Moore):	Thanks Lou, appreciate it.  Good afternoon.  First slide please.  Next slide.  The (inaudible) for a long-term test we've compiled all of the floor plans and made adjustments for spaces that had been remodeled or had major HVAC upgrades to the space.  We had only a few buildings that had walls moved or spaces rearranged.  Our consultant instructed us on the deployment and retrieval methods based on the manufacturer's recommendation.  Next.
+
+	Following the guidance of our consultant we decided to start our test in January as the weather were turning colder and we wanted to insure that during the testing period all doors and windows would be shut and (economizers) would be (after) minimum positions and the building is occupied, so the true radon levels could be measured.  Next.
+
+	This slide represents how we determine how many test kids to order.  Each occupied room on the ground level was counted and then using the formula we determined the number of (duplicate) and blank devices needed per building.  Duplicates and blanks are a quality assurance measure to validate the test.  Then we took the total number of devices for all buildings, and again, using the formula determine the number of spikes to include in the order.  The spikes are sent to another lab to validate the accuracy of the testing device.  Next.
+
+	We use general room number floor plan.  The plan only has room detail and doesn't get into building specifics, so it's clearly and (notes) during deployment can be written on it.  Next.
+
+	Testing devices should go in spaces and places that are occupied.  Rooms such as closets and bathrooms don't need to be tested because they are not occupied.  Even though I'm familiar with our buildings I visited sites that are built onto hills or have occupied rooms in basement levels.  We tested only the rooms that came in contact with the soil.  Next.
+
+	In this example part of the building is built onto a hillside.  The three rooms that are in contact with the soil were tested but the fourth room was not because it is above a room that is tested.  Next.
+
+	After the devices are all in order a quick inspection of the HVAC system was next on the list.  For this our HVAC test help was need.  They inspected air handlers and unit ventilators to make sure belts were on, outside (dampeners) were function and exhaust fans were running per the occupied schedule.  Next.
+
+	When the test kits arrived we took our deployment map, field log sheet and set out for the first building.  We went in teams of two, one placed the device and the other recorded device number and date on the log sheet and the map.  All devices were places after hours in order to speed up the process.  Next.
+
+	As we enter we each building notices were placed in halls to remind staff and students about the testing.  The notices also had my contact information for questions or problems with the devices.  I feel that posting the notices in previous communication with the building occupants was the reason why we had over a 99 percent return rate on devices.  Next.
+
+	For placement we used the manufacturer's recommendations.  Some of these were to keep away from air diffusers so the air isn't blowing on them and diluting the sample, place the device in breathing zone or about 20 inches from the ceiling, where it won't be disturbed.  It's easy to do in elementary school but not so easy to do in a high school.  Next.
+
+	For larger rooms we placed them in protective places.  In gyms we placed them behind the backboard, and in this example the cage protecting an exit sign suited our needs perfectly.  We found that our large room had high ceilings so we placed them as high as we could reach.  I'm now going to turn it over to (Neal Case) to continue on.
+
+(Neal Case):	Hi everybody.  I'm going to talk about the evaluation part of the key drivers.  After we'd collected and logged test results on the (CF) log sheet that had both 1990 results and our new 2006 results we were able to do a comparison and it indicated that additional (testings) would be required.  Next.
+
+	By marking that on a floor plan we (really see) what rooms with elevated levels are and if they are reserved off the same HVAC system.  Next.
+
+	It is important to know how the HVAC system affects the building pressurization as a result (in the sack effect) the ventilation in the system balancing of those systems.  Next.
+
+	This is an example of how an unbalanced system can keep rooms in a negative pressure, allowing radon to be pulled into the spaces.  In evaluating mechanical systems we try to keep the building pressure positive by five to ten percent.  This means that the exhaust should be about five percent less than the minimum (CFN) required for occupant ventilation per code.  Next.
+
+Lou Witt:	Hey, can you bring the microphone a little bit closer?  Some attendees are having a tough time hearing you.
+
+(Dan Moore):	Sorry about that.  By looking at the increase – sorry, by looking at the increasing radon level from the first room on the left the dedicated outdoor air unit to the classroom it was assumed that air balance to each room was mostly out of balance.  If you do not have the test equipment you may have to hire a test and (balance the contractor) to confirm this assumption.  With a little rebalancing and testing we were able to get the two rooms with high levels down below four picocuries per liter.  However, the other three rooms increased slightly due to essentially stealing some air out of those rooms.
+
+	As a side note, just because the room is balanced for the minimum outdoor air required by code doesn't mean that you can't increase it to keep the radon level down to four picocuries per liter.  This can eliminate the need to install a dedicated mitigation system, in fact of the five mitigation systems that the district did put in we kind of learned later that one of those schools, had we done this outdoor air, (increased) outdoor air we probably wouldn't have had to pay for that mitigation system.  Next.
+
+	As a quick follow-up to the air balance change we made on that previous slide we used a continuous radon monitor to show – shown here to help us determine the hour by hour radon levels for a couple days of testing.  With this we determined that we were able to bring those few classrooms down to below four picocuries per liter and we rented this equipment from a radon consultant.  Next.
+
+	As you see in the left graph the radon level may climb above four picocuries per liter during unoccupied mode.  When the HVAC equipment is scheduled in the occupied mode the radon level drops.  However if you notice it did not drop below four picocuries per liter by the occupied time of 7:30 a.m. as indicated by the second dashed line.  As shown in the bar chart to the right the average, during the occupied time period is below four picocuries per liter, however EPA allows this, you know, there may be times that the level is above four picocuries as shown at the second and fourth dashed lines on the left graph.  So that's shown in the morning times, the second and fourth about 7:30 where we're a little bit higher than four, well a lot higher I guess in some cases, but again, average is less than four.
+
+	We're not showing it here but we have to schedule our equipment earlier in the morning to bring in the outside air and help flush the radon out of the school.  One thing we noticed on the graph, on the left graph is that the radon level dropped between 9:11 p.m.  And with that we did a little investigation, we found that the unit was coming on and an outside air damper was opening in the unoccupied mode during the radon level – sorry, dropping the radon level.
+
+	So we modified our (DDC) program and we rechecked the radon levels during that time and they did not drop during those times.  So it almost acted like a little (battle logger) for us, telling us that something else was going on with the HVC system still.  Next.
+
+	This graph indicates the comparison of initial test results of the five schools that we put mitigation systems in that had radon levels of four picocuries liters or above versus the test results of the post mitigation system installed (in system) installation testing.  As you can see the mitigation systems significantly reduced the radon level.  This graph shows the total number of locations to be retested between those five schools that we had the mitigation systems installed.  Next.
+
+	This graph shows our 1990 long-term and post-mitigation original results.  We had the 2006 short-term test results shown in orange.  You'll notice that the 2006 radon level was much lower than the post-mitigation test results.  The reason for this is that in 1996 the district passed a bond to upgrade the HVAC equipment in many of the schools.  It was the first bond that we had in 30 years so if you know the life expectancy of the mechanical equipment and live on a shoestring budget as most school districts do you can imagine what condition the equipment was in before we replaced it.
+
+	When the original radon testing was performed the minimum ventilation requirements by code at the time was five CFM per person.  Most of the equipment at that time was (original) to our buildings and I guess I'd venture to say that from my experience that most outside dampers probably set at 10 percent or less regardless of the code minimum.  Sometimes that was done because of (path freeze) issues that schools experienced that all the equipment in the five schools that had radon mitigation systems were replaced with the new ventilation code requirement of 15 CFM per person and this essentially allowed the tripled out, the old code outside air requirement.  That's the significant radon level differences, as you can see between the orange and the yellow and red on the chart here.  The district had also implemented a stricter preventive maintenance program as well which really helped us maintain and do a better job of our oversight on our HVAC systems.  And I think that's about it for us, Lou.  Next.  Lou, are you there?
+
+Lou Witt:	I'm here are you there?
+
+(Janie Palmer):	Yes.  It's your slide.  All right thank you (Neal) and (Dan), I appreciate that.  Looks like we'll have time for some questions, but just kind of as a recap now you know that you have to test, you have to test your home, you have to test your schools.  The only way you can tell if you have an elevated problem.  As (Dan) and (Neal) showed you need to conduct your short-term test during the school week to replicate the conditions that people are going to be exposed under and the operating of the machinery is as it would be during normal operating hours.
+
+	And as in the case of Colorado Springs School District 11 not all rooms are going to be a problem.  Some are but usually it's a small number, but again, how would you know if you hadn't tested?  The response is fairly straightforward, you do some follow-up measurements and investigate what those measurements mean.  You take that information then and you mitigate them.  There's different, as you saw, different ways to do that.  Some of it does cost some money, absolutely.  Sometimes mitigation, particularly in conjunction with the HVAC balancing can actually save energy which saves money which kind of offsets the cost of the testing and the mitigation.  There's creative finance ways schools can acquire new HVAC equipment and use that as part of their mitigation plan.  So it sometimes sounds daunting but it's not, there's lots of resources out there that will help you certainly get started to maintain a testing and awareness program.
+
+	The mitigation, as you can imagine, that's kind of the tough point because that's what costs the money.  But it's not an insurmountable obstacle, as you'll see in a few minutes, some of the resources available may lead you to that proverbial pot of gold at the end of the rainbow.
+
+	So now I'm going to open it up for submitted questions.  Do you want me to read the question?  OK we're going to ask (Janie) to address a few of these and then we're going to turn a couple over to (Neal) and (Dan).  Let me say that all of the good questions we will answer and probably post that to either the (IAQ) Tools for Schools EPA website and also more than likely RadonLeaders.org and I'll provide those URLs in just a minute.  (Janie) do you want to take one of the questions?
+
+(Janie Palmer):	Yes.  I can't find exactly how the question was worded but somebody asked what did the zones represent in that map that I had there.  And I don't want to spent too much time on it but basically it's a map that was created quite a number of years ago and it's the potential for radon; it was based on a nationwide survey of average result along with geographic and soil considerations for those specific areas.  It is not a testing guide; the only way to know is to test.  It is what it is, it's some average results that happened a long time ago based on a nationwide survey.
+
+	Many states are now and have been producing their own data and actually have updated maps on their websites.  And when you go to the EPA radon website, which Lou will show you in a few minutes you will link on that, click on where you live and you'll find your specific state updated map.
+
+	Another question was should you correlate your test results that are in homes around schools – do you find that?  OK here it is.  If many homes in a neighborhood have been measured for radon how predictive are these results in estimating expected school radon levels?  In other words what is the correlation of home and school radon levels for a neighborhood?  Now there may be some study that someone has done but as far as I know you would not ever want to correlate any neighbors' test results with that your own test results might be.  Again, if there's anything to take away from at least what I've said is that the only way to know is to test.
+
+	The schools and homes are so different structurally, pressure-wise and since that's almost pretty much the main way that radon enters a building you really have to test your schools, test your classrooms and test your homes.  If your neighbor tests his home and his home is very low that does not mean that your home is.
+
+Lou Witt:	(Neal) and (Dan) similar questions from our audience that I think you could address best.  They both have to do with location.  The first one is why place the radon detector so high in the gym and behind the backboard?  Do you want to speak to that?
+
+(Dan Moore):	Sure.  This is (Dan).  Again, we did a lot of our testing based on consultant-driven information for our folks to place those and also the manufacturer's recommendations with the devices.  But basically as air is moving through a given space it's flowing in and around all parts of that room and as the air is rising those radon particles are picked up by a testing device.  So that's one of the reasons why you place it up in the air. And the other, in the large rooms we knew that we would have large concentrations of people there and if we placed those too low that they might be tampered with.  So we wanted to maximize our return rate.
+
+Lou Witt:	The other question that have to do with location is actually kind of on the other end of the spectrum and the question was how your exhaust pipe, how far was that supposed to be placed from any openings to avoid re-entrapment.
+
+(Dan Moore):	If you remember back to that slide that showed the sub-slab system the general guidance is to keep that little six to ten feet minimum away from an intake supply for the building.  So an air-handling unit that might be placed on the roof.  But you want to be a good two to three feet clear of the roof itself – cold air inversions, wind, things like that can suck that gas back into the building.
+
+Lou Witt:	OK we have another technical question for you, and the question is was the decline in radon levels due to ventilation or the increased pressure in the room that prevents the radon from entering the room?
+
+(Dan Moore):	I'm going to let (Neal) answer that one.
+
+Lou Witt:	OK I guess the question is pressurization versus ventilation.
+
+(Neal Case):	Yes, and again that's going through and making sure that your HVAC systems are your proper amount of ventilation is coming into the building and you have a balanced system regarding your exhaust.  So you do keep the building pressurized and as one of the slides showed there was – we had a couple rooms that were in a negative.  It took some readings so we rebalanced the system and got the – made sure that those rooms had some positive pressure in them.  Did I answer that question, Lou, correctly, or not correctly but did I answer it?  Pressurization versus ventilation?
+
+Lou Witt:	Well given the time and the level of detail that we ask you to get into I think you did a good job of it; I'm sure that may generate further thoughts and questions on the audience's part but I'm quite satisfied with what you said.
+
+(Dan Moore):	Lou if I could add just a quick piece to that.
+
+Lou Witt:	Please.
+
+(Dan Moore):	Yes.  If your building is under the negative pressure it will actually increase the amount of radon that's being released from the soil under your building and can actually draw it in more.  By having a positive pressure type system inside a building it will kind of keep that entry into the building at bay.  So that's more of our approach.
+
+Lou Witt:	OK.  Before we take a few more let me just remind folks that as I said at the very beginning, some states have laws and regulations on who can perform radon tests and actually even do the mitigation.  What you need to do before you start any testing or any mitigation is you need to contact you state radon office.  And I'll provide you with that information in just a minute.  But please keep in mind that there may be some things that you can and cannot do that you need to know about.
+
+	Here's a good one for you, (Neal) and (Dan).  The question is how did parents respond to the discovery of elevated levels?  And then again, along the same lines, how did they respond to the mitigation work?
+
+(Dan Moore):	This is (Dan).  When that newspaper article came out our phones rang off the hook quite a bit.  But our policy and kind of my philosophy is if you're straightforward and you're not holding anything back, you just – you're (more than) to the point with the parents and you give them facts – I didn't have any negative outcomes; I had some long phone conversations.  We applied kind of the key driver concept when speaking with the parents, so here's how we're going to do it and the steps that we're going to take.  The bottom line with every parent that I spoke with is we have your children's health in our – that's number one priority for us.  And that's my job to do every day is I'm responsible for 28,000-some kids.  So once I kind of got that through to most of the parents it was a walk in the park after that; I had a lot of support.
+
+Lou Witt:	OK which one – we're getting a lot of good questions and we're kind of doing a triage of the best ones that we can take advantage of (Dan) and (Neal)’s expertise.  
+
+	OK here's one.  It's addressed to you in particular, (Neal), but I think (Dan) could weight in also.  Would you recommend retro-commissioning, or continuous commissioning HVAC systems to verify building pressurization?  So it's retro-commissioning or continuous commissioning.
+
+(Neal Case):	I would recommend, or in our case the retro-commissioning is (for) existing schools.  We are pretty vigilant in doing that in-house; we have hired some consultants recently on a bond that we have passed and did some upgrades to our schools.  And so the testing procedures made sure that our systems are balanced through the commissioning process.  It is important.  In fact, another thing along with that is that we did some additions onto our schools in this bond that we just had an EPA requires that if you perform additional radon tests when those additions are built onto your schools because you're disturbing the soil at that time.  So yes I definitely recommend continuous and retro-commissioning process.
+
+Lou Witt:	OK, which one are we going to do next?  OK this one you may have to get the pencil and the envelop out but the question is what percentage of the total cost of the mitigation do you believe that you can attribute to the mitigation system versus the HVAC system?
+
+(Dan Moore):	Wow, good question.  I'm going to let (Neal) handle that one too.
+
+(Neal Case):	I don't know if we can.  I mean our mitigation systems that we put in place back in '90, '91, when the test results were – when the tests were required initially required by EPA, we put those in back then some 20 years ago and those systems are still working.  We really haven't had to do much to them as far as maintenance.  And so to tell you what, I would – I can't really think of a (cost) but I would start with making sure the HVAC systems are working properly and then do another retest like that 48-hour short-term test, see what your results come back at before I spend money putting in the fans.
+
+Lou Witt:	OK (Janie) do you have one that you wanted to answer?
+
+(Janie Palmer):	I have two that I think I can answer and I'll save the best for last for all you people who are still on the line.  But first let's address one question about what I love, quality assurance.  And I'm so glad somebody asked it.  It was – hold on just a second while we pull it up.  It was clear at the top – keep going – OK here we go.  When ordering the test you get duplicates and blanks; what do the blanks do?
+
+	Among other things one of the things that a blank does is make sure that the environment that all the test kits were kept in wasn't contaminated in the first place.  So if you're keeping them or storing them for a month in a room that has radon in it you might have some problems.  That's probably one of the main things that blanks serve, among other things.
+
+	However when you do look up on our website and you find those documents it does describe very well what the QA protocol is.  So did you have another one, Lou, before I did the (inaudible) one?
+
+Lou Witt:	Let me ask one more that I think (Dan) and (Neal) could handle very easily.  If high radon levels are found in one or two classrooms do you mitigate only those rooms or the building associated with those rooms?
+
+(Dan Moore):	This is (Dan).  In the five buildings that we own that have mitigation systems it is just single rooms that were elevated.  Again, I wasn't in this capacity back when they put the systems in so I can't speak to that but if we were to do that today I would take my short-term test and if I had one elevated I would go back, again, address the HVAC system, make sure everything's working as designed and we have the maximum amount of air going in to that room as designed.  Then I would do a long-term study (to assess) the effects of radon over a long-term period that causes our health risk.  If that still came back elevated I would put a system in that single room and it will address just the slab.  You don't know what's underneath that slab for the whole structure; it could be just an open path just right under that room and the rest of it's sealed up tight.  That's the unknown.
+
+Lou Witt:	OK (Janie) one last question.
+
+(Janie Palmer):	Last question if looks like we have time for the blueberry slide.  The blueberry is to the Grand Canyon as a radon molecule is to what?  I wish I could open up the phone lines for everybody to give their answer.  It is, do-do do-doo, to a crack in the concrete or foundation.  Remember that radon is so small that it comes through very minute cracks.
+
+Lou Witt:	All right, (Janie) you never know when you might need to know that.  I appreciate that information.  We're talking atomic and subatomic here – it's small.
+
+	Lastly, as I promised at the beginning, to make some of the resources known and available to you.  The indoor environments division schools program has a vast suite of materials; most of them are available online.  The different URLs or web pages are posted here.  Please make use of all this.  We've very proactive in getting this stuff out to people and we want to hear how you use it because that helps us make it better and think of new materials and ways to use the old ones.
+
+	The radon program also has materials available but – and we also have people that are very knowledgeable and want to make themselves available, particularly the state radon programs.  Now each state varies and they have different priorities but they all have information on testing of schools and the mitigation of schools.  They also, as I said earlier, may have very specific business requirements on who can test and who can mitigate.  So you need to contact your state radon office.  Even if you're not particularly looking for money, at least for information and to let them know what you have in mind and they are often very helpful, and occasionally do have some funds available, at least for some demonstration work, maybe some initial testing work.  So please avail yourself of your state program.
+
+	The National Radon Program Services is a website and hotline.  The nice thing about these folks is they can field information phone calls for you, if you don't have a state radon hotline you may turn to these folks for information to the public.  But of most interest to the school I think perhaps would be the poster contest that they run.  This is an annual national contest to promote radon awareness through a pretty fun, certainly hands-on school-based activity.
+
+	If you're interested in locating the professionals that can do the testing and mitigation for you one of our partner organizations, the American Association of Radon Scientists and Technologists, more commonly referred to or known as AARST can provide you information on who's available in your area that could come in and do the testing and mitigation so you know that you're getting quality, reliable results.
+
+	And then lastly in terms of radon websites, this is for all radon stakeholders and I invite all of you to become members of the Radon Leaders Saving Lives campaign.  We have good web discussions, traffic postings, blogs, resources free of charge.  I think you'll find that they are useful, particularly if you pursue radon in your schools.
+
+	Just real quick, the available materials that EPA has, two documents that are kind of the bedrock of the practice, radon prevention and the design of schools, how you design schools from the very beginning with radon prevention in mind, and then how to go about measuring the schools once they've been constructed.
+
+	I know down the road EPA is working with many organizations to come up with some radon in schools standards for both testing and mitigation but that's a process in work and we hope to have something in the not too distant future, recognizing the need for that.  But in the meantime please turn to the EPA resources, both schools and radon.
+
+	And lastly I would like to thank, on behalf of (Neal) and (Dan) the company (CIRTI) which was instrumental in working with (Dan) and (Neal) in 2006 and even to this day in managing their radon program.  (CIRTI)’s an example of the private sector coming forward with the knowledge and the experience to kind of fill in the gaps, the voids that school personnel themselves may not have.  So big round of applause to (CIRTI) for the work that they've done.
+
+	And I'd like to thank you all very much.  We had tremendous attendance; if I'd known it was going to be this good I think we would have charged admission, but we didn't and I hope you benefited from this.  And as I said, we will address the questions and be sending out follow-up material and the Tools for Schools webpage at EPA and the radon webpage will both have more information on this.  So thank you for your participation today.  We will be doing another (IAQ) and large buildings webinar in the not too distant future and I hope you'll attend that also.  So thank you very much.
+
+END
+EPA
+Moderator: Lou Witt
+08-24-11/2:00 p.m. ET
+Confirmation # 88049536
+Page 2
+

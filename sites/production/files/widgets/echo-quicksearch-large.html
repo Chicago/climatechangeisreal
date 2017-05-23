@@ -1,0 +1,94 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+
+
+
+
+ <html class="no-js not-oldie" lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"> 
+	<head profile="http://www.w3.org/1999/xhtml/vocab">
+	  <meta charset="utf-8" />
+	  <meta name="HandheldFriendly" content="true" />
+	  <link rel="shortcut icon" href="http://www2.epa.gov/sites/all/themes/epa/favicon.ico" type="image/vnd.microsoft.icon" />
+	  <meta name="MobileOptimized" content="width" />
+	  <meta http-equiv="cleartype" content="on" />
+	  <meta http-equiv="ImageToolbar" content="false" />
+	  <meta name="viewport" content="width=device-width" />
+	
+	  
+
+	  
+	  <title>ECHO Quick Search Widget | Enforcement &amp; Compliance History Online (ECHO) | US EPA</title>
+	
+	  
+	  
+	  <meta name="keywords" content="ECHO,enforcement,compliance,compliance history,violations,detailed facility report,inspections,environmental performance" />
+	  
+	  
+	  
+	  
+	
+	  <style>
+	        body {
+                margin:0;
+				padding:0;
+				top:0;
+				left:0;
+            }
+            ::-webkit-input-placeholder { /* WebKit browsers */
+                color:    #999;
+            }
+            :-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+                color:    #999;
+            }
+            ::-moz-placeholder { /* Mozilla Firefox 19+ */
+                color:    #999;
+            }
+            :-ms-input-placeholder { /* Internet Explorer 10+ */
+                color:    #999;
+            }
+	  </style>
+	</head>
+	<body class="blank">
+	
+ 
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-L8ZB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-L8ZB');</script>
+    
+
+
+<div style="display:block;position:relative;margin:0;padding:0;border:0;top:0;left:0;font-size:100%;font:inherit;vertical-align:baseline;">
+        
+</div>
+<script>
+/* 
+ * The MIT License
+ *
+ * Copyright (c) 2012 James Allardice
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), 
+ * to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, 
+ * and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ * EPA: Used to ensure placeholder text is visible in text input field on IE 8 browsers.
+ */
+/* Placeholders.js v3.0.1 */
+(function(t){"use strict";function e(t,e,r){return t.addEventListener?t.addEventListener(e,r,!1):t.attachEvent?t.attachEvent("on"+e,r):void 0}function r(t,e){var r,n;for(r=0,n=t.length;n>r;r++)if(t[r]===e)return!0;return!1}function n(t,e){var r;t.createTextRange?(r=t.createTextRange(),r.move("character",e),r.select()):t.selectionStart&&(t.focus(),t.setSelectionRange(e,e))}function a(t,e){try{return t.type=e,!0}catch(r){return!1}}t.Placeholders={Utils:{addEventListener:e,inArray:r,moveCaret:n,changeType:a}}})(this),function(t){"use strict";function e(){}function r(){try{return document.activeElement}catch(t){}}function n(t,e){var r,n,a=!!e&&t.value!==e,u=t.value===t.getAttribute(D);return(a||u)&&"true"===t.getAttribute(I)?(t.removeAttribute(I),t.value=t.value.replace(t.getAttribute(D),""),t.className=t.className.replace(V,""),n=t.getAttribute(F),n&&(t.setAttribute("maxLength",n),t.removeAttribute(F)),r=t.getAttribute(P),r&&(t.type=r),!0):!1}function a(t){var e,r,n=t.getAttribute(D);return""===t.value&&n?(t.setAttribute(I,"true"),t.value=n,t.className+=" "+R,r=t.getAttribute(F),r||(t.setAttribute(F,t.maxLength),t.removeAttribute("maxLength")),e=t.getAttribute(P),e?t.type="text":"password"===t.type&&M.changeType(t,"text")&&t.setAttribute(P,"password"),!0):!1}function u(t,e){var r,n,a,u,i;if(t&&t.getAttribute(D))e(t);else for(r=t?t.getElementsByTagName("input"):b,n=t?t.getElementsByTagName("textarea"):f,i=0,u=r.length+n.length;u>i;i++)a=r.length>i?r[i]:n[i-r.length],e(a)}function i(t){u(t,n)}function l(t){u(t,a)}function o(t){return function(){h&&t.value===t.getAttribute(D)&&"true"===t.getAttribute(I)?M.moveCaret(t,0):n(t)}}function c(t){return function(){a(t)}}function s(t){return function(e){return A=t.value,"true"===t.getAttribute(I)&&A===t.getAttribute(D)&&M.inArray(B,e.keyCode)?(e.preventDefault&&e.preventDefault(),!1):void 0}}function d(t){return function(){n(t,A),""===t.value&&(t.blur(),M.moveCaret(t,0))}}function g(t){return function(){t===r()&&t.value===t.getAttribute(D)&&"true"===t.getAttribute(I)&&M.moveCaret(t,0)}}function v(t){return function(){i(t)}}function p(t){t.form&&(T=t.form,T.getAttribute(U)||(M.addEventListener(T,"submit",v(T)),T.setAttribute(U,"true"))),M.addEventListener(t,"focus",o(t)),M.addEventListener(t,"blur",c(t)),h&&(M.addEventListener(t,"keydown",s(t)),M.addEventListener(t,"keyup",d(t)),M.addEventListener(t,"click",g(t))),t.setAttribute(j,"true"),t.setAttribute(D,x),(h||t!==r())&&a(t)}var b,f,h,m,A,y,E,x,L,T,N,S,w,C=["text","search","url","tel","email","password","number","textarea"],B=[27,33,34,35,36,37,38,39,40,8,46],k="#999",R="placeholdersjs",V=RegExp("(?:^|\\s)"+R+"(?!\\S)"),D="data-placeholder-value",I="data-placeholder-active",P="data-placeholder-type",U="data-placeholder-submit",j="data-placeholder-bound",q="data-placeholder-focus",z="data-placeholder-live",F="data-placeholder-maxlength",G=document.createElement("input"),H=document.getElementsByTagName("head")[0],J=document.documentElement,K=t.Placeholders,M=K.Utils;if(K.nativeSupport=void 0!==G.placeholder,!K.nativeSupport){for(b=document.getElementsByTagName("input"),f=document.getElementsByTagName("textarea"),h="false"===J.getAttribute(q),m="false"!==J.getAttribute(z),y=document.createElement("style"),y.type="text/css",E=document.createTextNode("."+R+" { color:"+k+"; }"),y.styleSheet?y.styleSheet.cssText=E.nodeValue:y.appendChild(E),H.insertBefore(y,H.firstChild),w=0,S=b.length+f.length;S>w;w++)N=b.length>w?b[w]:f[w-b.length],x=N.attributes.placeholder,x&&(x=x.nodeValue,x&&M.inArray(C,N.type)&&p(N));L=setInterval(function(){for(w=0,S=b.length+f.length;S>w;w++)N=b.length>w?b[w]:f[w-b.length],x=N.attributes.placeholder,x?(x=x.nodeValue,x&&M.inArray(C,N.type)&&(N.getAttribute(j)||p(N),(x!==N.getAttribute(D)||"password"===N.type&&!N.getAttribute(P))&&("password"===N.type&&!N.getAttribute(P)&&M.changeType(N,"text")&&N.setAttribute(P,"password"),N.value===N.getAttribute(D)&&(N.value=x),N.setAttribute(D,x)))):N.getAttribute(I)&&(n(N),N.removeAttribute(D));m||clearInterval(L)},100)}M.addEventListener(t,"beforeunload",function(){i()}),K.disable=K.nativeSupport?e:i,K.enable=K.nativeSupport?e:l}(this);
+</script>
+	
+	</body>
+</html>

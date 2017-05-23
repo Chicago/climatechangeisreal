@@ -1,0 +1,74 @@
+"Figure 2. Relative Sea Level Change Along U.S. Coasts, 1960-2015",,,,
+Source: EPA's Climate Change Indicators in the United States: www.epa.gov/climate-indicators,,,,
+"Data source: NOAA, 2016",,,,
+Web update: August 2016,,,,
+Units: inches,,,,
+,,,,
+Lat,Long,Station Name,State,Relative sea level change
+21.955,-159.357,Nawiliwili,Hawaii,3.053149606
+21.307,-157.867,Honolulu,Hawaii,3.053149606
+21.437,-157.793,Mokuoloe,Hawaii,2.446850394
+20.898,-156.472,Kahului,Hawaii,4.417322835
+19.73,-155.057,Hilo,Hawaii,6.387795276
+28.212,-177.36,Midway Atoll,Pacific Ocean,2.706692913
+8.737,167.738,Kwajalein,Marshall Is.,4.763779528
+19.29,166.618,Wake Island,Pacific Ocean,4.309055118
+32.373,-64.703,Bermuda,Atlantic Ocean,4.438976378
+44.903,-66.985,Eastport,Maine,4.568897638
+44.392,-68.205,Bar Harbor,Maine,4.720472441
+43.657,-70.247,Portland,Maine,4.049212598
+42.355,-71.052,Boston,Massachusetts,6.041338583
+41.523,-70.672,Woods Hole,Massachusetts,6.084645669
+41.505,-71.327,Newport,Rhode Island,5.88976378
+41.807,-71.402,Providence,Rhode Island,4.807086614
+41.355,-72.087,New London,Connecticut,5.521653543
+41.048,-71.96,Montauk,New York,6.950787402
+40.81,-73.765,Kings Point,New York,5.413385827
+40.7,-74.015,The Battery,New York,6.149606299
+40.467,-74.01,Sandy Hook,New Jersey,8.769685039
+39.355,-74.418,Atlantic City,New Jersey,8.812992126
+39.933,-75.142,Philadelphia,Pennsylvania,6.344488189
+39.558,-75.573,Reedy Point,Delaware,7.665354331
+38.782,-75.12,Lewes,Delaware,7.362204724
+38.573,-76.068,Cambridge,Maryland,7.99015748
+39.267,-76.578,Baltimore,Maryland,6.799212598
+38.983,-76.48,Annapolis,Maryland,7.643700787
+38.317,-76.452,Solomons Island,Maryland,8.098425197
+38.873,-77.022,Washington,D. C.,6.972440945
+37.167,-75.988,Kiptopeke,Virginia,7.751968504
+36.947,-76.33,Sewells Point,Virginia,9.938976378
+34.72,-76.67,Beaufort,North Carolina,6.257874016
+34.227,-77.953,Wilmington,North Carolina,4.742125984
+33.655,-78.918,Springmaid Pier,South Carolina,8.44488189
+32.782,-79.925,Charleston,South Carolina,6.950787402
+32.033,-80.902,Fort Pulaski,Georgia,6.864173228
+30.672,-81.465,Fernandina Beach,Florida,4.503937008
+30.397,-81.43,Mayport,Florida,5.521653543
+24.553,-81.808,Key West,Florida,5.131889764
+27.76,-82.627,St. Petersburg,Florida,5.75984252
+29.135,-83.032,Cedar Key,Florida,4.265748031
+30.403,-87.212,Pensacola,Florida,4.872047244
+29.263,-89.957,Grand Isle,Louisiana,19.59645669
+29.73,-93.87,Sabine Pass,Texas,11.99606299
+29.31,-94.793,Galveston Pier 21,Texas,13.79330709
+28.022,-97.047,Rockport,Texas,11.54133858
+26.06,-97.215,Port Isabel,Texas,8.293307087
+32.713,-117.173,San Diego,California,4.612204724
+32.867,-117.258,La Jolla,California,4.742125984
+33.72,-118.272,Los Angeles,California,2.057086614
+34.008,-118.5,Santa Monica,California,3.291338583
+35.177,-120.76,Port San Luis,California,1.818897638
+37.807,-122.465,San Francisco,California,4.200787402
+37.772,-122.298,Alameda,California,1.559055118
+41.745,-124.183,Crescent City,California,-1.753937008
+46.208,-123.767,Astoria,Oregon,-0.498031496
+48.368,-124.617,Neah Bay,Washington,-3.746062992
+47.605,-122.338,Seattle,Washington,4.352362205
+48.547,-123.01,Friday Harbor,Washington,2.42519685
+55.333,-131.625,Ketchikan,Alaska,-0.671259843
+57.052,-135.342,Sitka,Alaska,-4.937007874
+58.298,-134.412,Juneau,Alaska,-28.45275591
+59.45,-135.327,Skagway,Alaska,-38.08858268
+51.863,-176.632,Adak Island,Alaska,-6.127952756
+53.88,-166.537,Unalaska,Alaska,-11
+17.972,-67.047,Magueyes Island,Puerto Rico,3.681102362

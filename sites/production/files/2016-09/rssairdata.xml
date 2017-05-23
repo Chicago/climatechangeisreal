@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	>
+
+<channel>
+	<title>AirData User Info</title>
+	<link>https://www.epa.gov/sites/production/files/2016-09/rssairdata.xml</link>
+	<atom:link href="https://www.epa.gov/sites/production/files/2016-09/rssairdata.xml" rel="self" type="application/rss+xml" />
+	<description>Usage notes and content updates for the AirData website</description>
+	<language>en-us</language>
+	<managingEditor>airdata@epa.gov (AirData Webmaster)</managingEditor>
+	<webMaster>airdata@epa.gov (AirData Webmaster)</webMaster>
+	<pubDate>Thu, 22 Sep 2011 15:42:44 -0400</pubDate>
+	<lastBuildDate>Fri, 30 Sep 2016 16:00:44 -0400</lastBuildDate>
+	<docs>http://www.rssboard.org/rss-2-0-9</docs>
+
+		<item>
+		<title>New Visualization Tool</title>
+		<link>https://www.epa.gov/outdoor-air-quality-data/air-data-multiyear-tile-plot</link>
+		<pubDate>Fri, 30 Sep 2016 16:00:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00070</guid>		
+		<category><![CDATA[New Feature]]></category>
+		<description>
+		<![CDATA[
+		<p>The new <a href="https://www.epa.gov/outdoor-air-quality-data/air-data-multiyear-tile-plot">Multiyear Tile Plot</a> displays daily AQI values across multiple years, so you can see long-term changes in air quality.</p>
+		]]></description>
+		</item>
+	
+		<item>
+		<title>AirData has a new web address</title>
+		<pubDate>Thu, 15 Sep 2016 01:00:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00069</guid>		
+		<category><![CDATA[Unscheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>AirData has been updated and moved to https://www.epa.gov/air-data<br><br>The same tools are still available, plus two new technical reporting tools.</p>
+		]]></description>
+		</item>		
+	
+		<item>
+		<title>AirData is back online</title>
+		<pubDate>Wed, 10 Aug 2016 08:00:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00068</guid>		
+		<category><![CDATA[Unscheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>AirData is back online. We apologize for the inconvenience.</p>
+		]]></description>
+		</item>	
+	
+		<item>
+		<title>AirData will be offline today (Tuesday, August 9th)</title>
+		<pubDate>Tue, 09 Aug 2016 09:30:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00067</guid>		
+		<category><![CDATA[Unscheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>The database is unavailable due to a problem with the overnight update.  All AirData services are down all day today. We hope to restore services by tomorrow morning and will post an update as soon as services are available. We apologize for the inconvenience.<br><br>
+		The static files on the <a href="http://aqsdr1.epa.gov/aqsweb/aqstmp/airdata/download_files.html">Download Data Files page</a> are still available for download.</p>
+		]]></description>
+		</item>
+	
+		<item>
+		<title>AirData is down</title>
+		<pubDate>Mon, 08 Aug 2016 09:15:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00066</guid>		
+		<category><![CDATA[Unscheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>The database is unavailable due to a problem with the overnight update.  All AirData services are down all day today. We hope to restore services by tomorrow morning and will post an update as soon as services are available. We apologize for the inconvenience.<br><br>
+		The static files on the <a href="http://aqsdr1.epa.gov/aqsweb/aqstmp/airdata/download_files.html">Download Data Files page</a> are still available for download.</p>
+		]]></description>
+		</item>
+		
+		<item>
+		<title>AirData is back online</title>
+		<pubDate>Tue, 02 Aug 2016 08:00:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00065</guid>		
+		<category><![CDATA[Unscheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>AirData is back online. We apologize for the inconvenience.</p>
+		]]></description>
+		</item>
+		
+		<item>
+		<title>AirData is down</title>
+		<pubDate>Mon, 01 Aug 2016 09:10:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00064</guid>		
+		<category><![CDATA[Unscheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>The database is unavailable due to a problem with the overnight update.  All AirData services are down temporarily. We hope to restore services later this afternoon and will post an update as soon as services are available. We apologize for the inconvenience.<br><br>
+		The static files on the <a href="http://aqsdr1.epa.gov/aqsweb/aqstmp/airdata/download_files.html">Download Data Files page</a> are still available for download.</p>
+		]]></description>
+		</item>			
+		
+		<item>
+		<title>The Download Data Files page has been refreshed with new data</title>
+		<link>http://aqsdr1.epa.gov/aqsweb/aqstmp/airdata/download_files.html</link>
+		<pubDate>Wed, 13 Jul 2016 08:05:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00063</guid>		
+		<category><![CDATA[Announcement]]></category>
+		<description>
+		<![CDATA[
+		<p>The file download page has been refreshed with new data.  Sorry for the delay, but many changes were being made to AQS that we needed to wait on.<br/><br/>
+
+First, 1/2 MDL values have been removed.  Historically, as part of the data reduction process, AQS has replaced reported values that are below the Method Detection Limit (MDL) with 1/2 of the MDL for most pollutants.  This was phased out for some pollutants beginning in 2013.  This year, we completed the phase out for the remaining pollutants.  Approximately 200 million values for 900 parameters had the 1/2 MDL substitution removed.  Because values across all parameters, years, and summary levels were affected by this, all of the files on the page have been regenerated.  (Previously summary values were based on the substituted values, now they are not.)<br/><br/>
+
+Second, the new ozone standard has not been fully implemented in AQS.  Therefore the summary files do not contain information for the new ozone standard.  However the AQI values have been updated.<br/><br/>
+
+Finally, a user reported an error in the 8-hour files.  For files prior to 2008, the summary value excluding regionally concurred events is incorrect.  This is a bug in our underlying database that could not be corrected before the files were generated.  Rather than removing the 8-hour files, we are including them with this caveat.  Other summary values are correct.
+</p>
+		]]></description>
+		</item>	
+	
+        <item>
+		<title>AirData will be offline due to scheduled maintenance from Saturday, July 2nd until Tuesday, July 5th</title>
+		<pubDate>Tue, 21 Jun 2016 09:45:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00062</guid>		
+		<category><![CDATA[Scheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>AirData will be offline due to scheduled maintenance from Saturday, July 2nd until Tuesday, July 5th.</p>
+		]]></description>
+		</item>
+		
+		<item>
+		<title>New map layers now available</title>
+		<link>https://www3.epa.gov/airdata/ad_maps.html</link>
+		<pubDate>Wed, 11 May 2016 14:00:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00061</guid>		
+		<category><![CDATA[New Feature]]></category>
+		<description>
+		<![CDATA[
+		<p>The following map layers have been added to the interactive map:<br/>
+		Nonattainment areas<br/>
+		Tribal areas<br/>
+		Federal Class 1 areas
+		</p>
+		]]></description>
+		</item>
+		
+		<item>
+		<title>AirData is back online</title>
+		<pubDate>Tue, 16 Feb 2016 13:51:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00060</guid>		
+		<category><![CDATA[Unscheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>AirData is back online. We apologize for the inconvenience.</p>
+		]]></description>
+		</item>
+    
+        <item>
+		<title>AirData is down</title>
+		<pubDate>Tue, 16 Feb 2016 08:25:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00059</guid>		
+		<category><![CDATA[Unscheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>The database is unavailable due to a problem with the overnight update.  All AirData services are down temporarily. We hope to restore services by this afternoon and will post an update as soon as services are available. We apologize for the inconvenience.</p>
+		]]></description>
+		</item>			
+    
+        <item>
+		<title>Interactive Map - new interface</title>
+        <link>http://www3.epa.gov/airdata/ad_maps.html</link>
+		<pubDate>Thu, 31 Dec 2015 08:50:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00058</guid>		
+		<category><![CDATA[Announcement]]></category>
+		<description>
+		<![CDATA[
+		<p>The map application on AirData has been updated to be consistent with the EPA GeoPlatform. The new application displays the same layers as the previous application. Instructions for using the map are available on the page. At this time kml files are not available for download. But all other features from the previous application are still available.
+</p>
+		]]></description>
+		</item>
+    
+        <item>
+		<title>Interactive Map - a change is coming soon</title>
+        <link>http://www3.epa.gov/airdata/ad_maps.html</link>
+		<pubDate>Fri, 18 Dec 2015 14:25:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00057</guid>		
+		<category><![CDATA[Announcement]]></category>
+		<description>
+		<![CDATA[
+		<p>We plan to replace the existing map application on AirData with a new one by the end of December 2015. The new application will display the same layers as the existing map and will provide the same features with some enhancements. This new map application will make it easier to add layers in the future.
+</p>
+		]]></description>
+		</item>    
+    
+        <item>
+		<title>The “Download Data Files” page has been updated</title>
+        <link>http://aqsdr1.epa.gov/aqsweb/aqstmp/airdata/download_files.html</link>
+		<pubDate>Fri, 04 Dec 2015 11:00:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00056</guid>		
+		<category><![CDATA[Announcement]]></category>
+		<description>
+		<![CDATA[
+		<p>The “Download Data Files” page has been updated.<br/><br/>
+
+The “Download Data Files” page has been updated. All files have been updated to incorporate any new data that was submitted to EPA since the last update (June, 2015). If a file was changed, it will have a new as-of date indicated on the table. The next update is scheduled for early June and will be the first time 2015 data is expected to be complete.<br/><br/>
+
+Two changes were made for this update.  First, we have added files that list information about the sites and monitors in AQS.  Second, the list of substances in the VOC list has been expanded at the request of users, so those files are larger (and all have been updated).<br/><br/>
+
+IMPORTANT – AQS not yet recalculated new values for the latest ozone standard.  All AQIs, exceedance counts, etc. still reflect the previous standard.  Data for the new standard will be included in the June 2016 update.
+</p>
+		]]></description>
+		</item>
+    
+        <item>
+		<title>AirData offline Sunday evenings for weekly update</title>
+		<pubDate>Fri, 04 Dec 2015 10:55:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00055</guid>		
+		<category><![CDATA[Announcement]]></category>
+		<description>
+		<![CDATA[
+		<p>AirData will be offline WEEKLY from 6pm EST Sunday to 6am EST Monday for scheduled weekly database updates.</p>
+		]]></description>
+		</item>
+    
+    
+        <item>
+		<title>Query Air Data has a new web site!</title>
+        <link>https://aqs.epa.gov/api</link>
+		<pubDate>Mon, 19 Oct 2015 12:40:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00054</guid>		
+		<category><![CDATA[Announcement]]></category>
+		<description>
+		<![CDATA[
+		<p>The Query Air Data (QAD) “endpoint” has moved.  That means the URL used to access the interface or run queries has changed.  The link on AirData has been changed to go to the new site.<br/><br/>
+
+The new location is <a href="https://aqs.epa.gov/api">https://aqs.epa.gov/api</a>.<br/><br/>
+
+We’re also using this as an opportunity to rebrand the site as the AQS API (Application Programming Interface).  The same functionality exists that used to be in Query Air Data.  In the near future we will be adding new services for additional types of data – we will post notices here as we do.  The documentation has also been updated and includes a RAML (REST API Modeling Language) version for those that would like to use it.<br/><br/>
+
+We will maintain the old URL for the REST services until Friday, October 30th, 2015.  Your current account will work on the new site.
+</p>
+		]]></description>
+		</item>
+    
+        <item>
+		<title>AirData Update</title>
+		<pubDate>Thu, 27 Aug 2015 13:40:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00053</guid>		
+		<category><![CDATA[Announcement]]></category>
+		<description>
+		<![CDATA[
+		<p>The AirData website was recently updated to connect to the new AQS Data Mart.<br/><br/>
+
+You may notice some changes, including faster query times for many tools.  In particular, please note:<br/>
+<ul>
+    </li>Annual means (for NO2 and SO2) and max 3-month averages (for Lead) have been added to the Air Quality Statistics Report and the Monitor Values Report, though the new lead statistics are only available for monitors reporting lead as parameter 14129 (TSP local conditions) and 85129 (PM10 local conditions). Lead reported as parameter 12128 (TSP standard conditions) displays only 1st-4th maxes in the Monitor Values Report at this time.</li>
+    </li>In the Air Quality Index Report, there is no longer an option to select the whole U.S. At this time, the query takes too long to implement on the website.</li>
+    </li>The Ozone Exceedances visualization tool is significantly faster.</li>
+</ul>
+</p>
+		]]></description>
+		</item>    
+    
+        <item>
+		<title>Changes to Data Download Files</title>
+        <link>http://aqsdr1.epa.gov/aqsweb/aqstmp/airdata/download_files.html</link>
+		<pubDate>Fri, 26 Jun 2015 14:10:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00052</guid>		
+		<category><![CDATA[Announcement]]></category>
+		<description>
+		<![CDATA[
+		<p>The Download Files page has been updated with new data and many other changes.<br/><br/>
+
+Please note that we have made several changes to the data files.  These changes include changing the formats of several files.  We understand that this may be a nuisance to existing programs that ingest the data, but all changes were made based on requests from the users over the last year and we are committed to constantly improving our products.<br/><br/>  
+
+To accommodate the changes, all files have been recreated.  That is, not just files that include data that changed since the last update are new, they are all newly generated.<br/><br/>  
+
+The changes are:<br/><br/>
+
+Hourly Data files: Correction to method detection limit  (MDL) values.  It was recently discovered that the MDL value in the hourly data files may have been listed in a unit of measure that does not match the unit of measure listed in the record.  This happened when the sample had an alternate MDL that was reported in units other than the standard units.<br/><br/>
+
+Hourly Data files: Added Method Code column.  In addition to the method name, these files now include the AQS method code (number).<br/><br/>
+
+Daily Data files: Added Method Code column.  In addition to the method name, these files now include the AQS method code (number).<br/><br/>
+
+Annual Summary Data files: Added Completeness Indicator column.  A column indicating whether the data meets the regulatory requirements for completeness for the year has been added.  Different parameters have different completeness requirements and it is not always straight-forward to determine if an annual value is complete.<br/><br/>
+
+Added files for NO, NOx, and NOy.  Many people have requested that our measurements of NO, NOx, and NOy be made available.  They have always been in the annual files, but we have added daily and hourly files of this data.<br/><br/>
+
+Added files for 8-hour averages of ozone and CO.  The form of the NAAQS average for ozone and CO includes an 8-hour average.  We are providing these files as a convenience for users who need this data.
+</p>
+		]]></description>
+		</item>
+    
+		<item>
+		<title>AirData is back online</title>
+		<pubDate>Thu, 15 Jan 2015 08:00:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00051</guid>		
+		<category><![CDATA[Unscheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>Yesterday's database problems have been resolved and the system is back online. We apologize for the inconvenience.</p>
+		]]></description>
+		</item>
+
+		<item>
+		<title>AirData is down</title>
+		<pubDate>Wed, 14 Jan 2015 10:00:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00050</guid>		
+		<category><![CDATA[Unscheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>The database is in restricted mode due to a problem with the overnight update.  All AirData services are down temporarily. We apologize for the inconvenience.</p>
+		]]></description>
+		</item>			
+
+		<item>
+		<title>The “Download Data Files” page has been updated.</title>
+		<link>http://aqsdr1.epa.gov/aqsweb/aqstmp/airdata/download_files.html</link>
+		<pubDate>Mon, 12 Jan 2015 14:00:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00049</guid>		
+		<category><![CDATA[Announcement]]></category>
+		<description>
+		<![CDATA[
+		<p>The “Download Data Files” page has been updated.  All files have been updated to incorporate any new data that was submitted to EPA since the last update (June, 2014). If a file was changed, it will have a new as-of date indicated on the table. The next update is scheduled for early June and will be the first time 2014 data is expected to be complete.</p>
+		]]></description>
+		</item>
+
+		<item>
+		<title>AirData will undergo scheduled maintenance on Friday, January 9 from 11am to 12pm (Eastern)</title>
+		<pubDate>Fri, 09 Jan 2015 10:45:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00048</guid>		
+		<category><![CDATA[Scheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>AirData will undergo scheduled maintenance on Friday, January 9 from 11am to 12pm (Eastern).  AirData services may be intermittent during that period.</p>
+		]]></description>
+		</item>
+
+		<item>
+		<title>AirData will undergo scheduled maintenance on Friday, December 19 from 7am to 11am (Eastern)</title>
+		<pubDate>Thu, 11 Dec 2014 15:35:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00047</guid>		
+		<category><![CDATA[Scheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>AirData will undergo scheduled maintenance on Friday, December 19 from 7am to 11am (Eastern).  AirData services may be intermittent during that period.</p>
+		]]></description>
+		</item>
+
+		<item>
+		<title>AirData is up and running</title>
+		<pubDate>Fri, 11 Jul 2014 07:35:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00046</guid>		
+		<category><![CDATA[Unscheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>The AirData website had technical problems over the last several days. The problems have been resolved, and AirData is back up and running today. We're sorry for the inconvenience.</p>
+		]]></description>
+		</item>
+		
+		<item>
+		<title>The AirData Site is experiencing technical problems</title>
+		<pubDate>Wed, 09 Jul 2014 14:00:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00045</guid>		
+		<category><![CDATA[Unscheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>The AirData Site is experiencing technical problems. We are working to resolve the problems and will post a notice to this feed as soon as is AirData back on-line. In the meantime, pre-generated data files are available on the <a href="http://aqsdr1.epa.gov/aqsweb/aqstmp/airdata/download_files.html">Download Data Files</a> page.</p>
+		]]></description>
+		</item>
+
+		<item>
+		<title>AirData is up and running</title>
+		<pubDate>Thu, 03 Jul 2014 10:15:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00044</guid>		
+		<category><![CDATA[Unscheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>The AirData website had technical problems over the last several days. The problems have been resolved, and AirData is back up and running today. We're sorry for any inconvenience this may have caused you.</p>
+		]]></description>
+		</item>		
+		
+		<item>
+		<title>The AirData Site is experiencing technical problems</title>
+		<pubDate>Fri, 27 Jun 2014 09:40:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00043</guid>		
+		<category><![CDATA[Unscheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>The AirData Site is experiencing technical problems. We are working to resolve the problems and will post a notice to this feed as soon as is AirData back on-line.</p>
+		]]></description>
+		</item>
+		
+		<item>
+		<title>The Download Files page has been updated</title>
+		<link>http://aqsdr1.epa.gov/aqsweb/aqstmp/airdata/download_files.html</link>
+		<pubDate>Thu, 19 Jun 2014 13:33:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00042</guid>		
+		<category><![CDATA[Correction]]></category>
+		<description>
+		<![CDATA[
+		<p>The hourly files had incorrect GMT time values (all other values, including the local time, are correct).  This has been corrected and all hourly files have been replaced with the correct data.  We also updated all the other files that include data that has changed since our last update about a month ago.  The next update is scheduled for November.</p>
+		]]></description>
+		</item>
+		
+		<item>
+		<title>HAP Annual Summary Report - Units Conversion</title>
+		<link>http://www.epa.gov/airdata/ad_rep_monhaps.html</link>
+		<pubDate>Fri, 06 Jun 2014 11:18:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00041</guid>		
+		<category><![CDATA[Announcement]]></category>
+		<description>
+		<![CDATA[
+		<p>In most reports of AQS data, the units of measure for most gaseous HAPs are PPBC. For this report the units of measure for gaseous HAPs were converted from PPBC to ug/m3 as follows:  ug/m3=PPBC * MW * (1/#Carbons) * (1/24.436).</p>
+		]]></description>
+		</item>
+		
+		<item>
+		<title>The Download Data Files page has been updated</title>
+		<pubDate>Wed, 28 May 2014 01:35:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00040</guid>		
+		<category><![CDATA[Correction]]></category>
+		<description>
+		<![CDATA[
+		<p>The <a href="http://aqsdr1.epa.gov/aqsweb/aqstmp/airdata/download_files.html">Download Data Files</a> page has been updated.  Any new or changed data reported to EPA since the last update (in February 2014) has been updated in the files.  You can use the “as of” date on the file tables to determine if a file has been updated. Also, we’ve added the blanks data. (Blanks are empty cannisters that are measured for speciation quality assurance reasons). We plan to update these files twice a year - in May and November.</p>
+		]]></description>
+		</item>
+
+		<item>
+		<title>New Report - Annual Summary Report for Hazardous Air Pollutants</title>
+		<pubDate>Wed, 02 Apr 2014 03:50:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00039</guid>		
+		<category><![CDATA[New Feature]]></category>
+		<description>
+		<![CDATA[
+		<p>A <a href="http://www.epa.gov/airquality/airdata/ad_rep_monhaps.html">Monitor Values Report for Hazardous Air Pollutants</a> is now available.</p>
+		]]></description>
+		</item>
+
+		<item>
+		<title>Hourly file headers corrected</title>
+		<pubDate>Tue, 01 Apr 2014 11:10:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00038</guid>		
+		<category><![CDATA[Correction]]></category>
+		<description>
+		<![CDATA[
+		<p>All of the hourly data files on the <a href="http://aqsdr1.epa.gov/aqsweb/aqstmp/airdata/download_files.html">Download Data Files</a> page included a mistake in the header.  (There were columns in the header that were not present in the file: Sample Duration and Sample Frequency). The headers in all of the files have been changed and are now correct.  The data in the files has NOT been changed, so the file creation date (‘as of date’ on the web page) has also NOT been updated, even though the files were modified.</p>
+		]]></description>
+		</item>
+
+		<item>
+		<title>National-level data files available for download</title>
+		<pubDate>Tue, 04 Mar 2014 15:15:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00037</guid>		
+		<category><![CDATA[New Feature]]></category>
+		<description>
+		<![CDATA[
+		<p>Pre-generated files of data for the entire nation are now available at <a href="http://aqsdr1.epa.gov/aqsweb/aqstmp/airdata/download_files.html">Download Data Files</a>. These are files of our most commonly requested parameters at the annual, daily, and hourly summary levels.</p>
+		]]></description>
+		</item>
+		
+		<item>
+		<title>Plot multiple years now</title>
+		<pubDate>Fri, 13 Dec 2013 16:15:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00036</guid>		
+		<category><![CDATA[New Feature]]></category>
+		<description>
+		<![CDATA[
+		<p>The <a href="http://www.epa.gov/airquality/airdata/ad_viz_plotval.html">Concentration Plot</a> now allows you to plot up to 25 years of data. Also, the daily value and date are displayed when you mouse-over a data point.</p>
+		]]></description>
+		</item>
+
+		<item>
+		<title>AirData will not be available on Saturday, December 21 from 6am to 12pm (Eastern)</title>
+		<pubDate>Wed, 11 Dec 2013 14:15:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00035</guid>		
+		<category><![CDATA[Scheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>The AQS Data Mart will be down for scheduled maintenance on Saturday, December 21 from 6am to 12pm (Eastern).  AirData tools will not be functional during this time.</p>
+		]]></description>
+		</item>
+		
+		<item>
+		<title>National reports now available</title>
+		<pubDate>Fri, 15 Nov 2013 15:45:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00034</guid>		
+		<category><![CDATA[New Feature]]></category>
+		<description>
+		<![CDATA[
+		<p>The <a href="http://www.epa.gov/airquality/airdata/ad_rep_aqi.html">Air Quality Index Report</a> and <a href="http://www.epa.gov/airquality/airdata/ad_rep_con.html">Air Quality Statistics Report</a> now allow you to get results for the entire United States in one query.</p>
+		]]></description>
+		</item>
+		
+		<item>
+		<title>AirData will not be available on Saturday, November 9 from 6am to 12pm (Eastern)</title>
+		<pubDate>Mon, 04 Nov 2013 11:30:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00033</guid>		
+		<category><![CDATA[Scheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>The AQS Data Mart will be down for scheduled maintenance on Saturday, November 9 from 6am to 12pm (Eastern).  AirData tools will not be functional during this time.</p>
+		]]></description>
+		</item>
+
+		<item>
+		<title>Query Air Data (QAD) application functioning properly again</title>
+		<link>https://ofmext.epa.gov/AQDMRS/aqdmrs.html</link>
+		<pubDate>Tue, 29 Oct 2013 08:55:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00032</guid>		
+		<category><![CDATA[QAD Status]]></category>
+		<description>
+		<![CDATA[
+		<p>Several small parts of the QAD application have broken over the last few months, leading to large problems.  We have fixed the critical problems and the application is working properly again.  We are still working on some of the remaining problems that are not critical.  Here is what has been done and what you might notice:
+<ol>
+<li>The page should display better.  We will continue to improve the appearance over time.</li>
+
+<li>Drop down menus are operational.  These components have been restored and the page should be fully functional in all browsers.</li>
+
+<li>The synchronous (rawData) query has been turned on again.   We have implemented a workaround to network problems that caused this service to fail.  There is one big change you may notice related to this: in addition to the file being sent to you interactively, you will also get an email with a link to your results.  We have also add a “processing” message to the screen while rawData queries run.</li>
+
+<li>We ceased compressing/zipping any output files.   We may (or may not) resume this in the future.</li>
+
+<li>New accounts are being processed again.  We will start clearing the backlog immediately.</li>
+</ol>
+That sums it up.  Thanks for you patience!
+</p>
+		]]></description>
+		</item>
+				
+		<item>
+		<title>Query Air Data (QAD) application now working, but in a limited capacity</title>
+		<link>https://ofmext.epa.gov/AQDMRS/aqdmrs.html</link>
+		<pubDate>Wed, 11 Sep 2013 16:22:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00031</guid>		
+		<category><![CDATA[QAD Status]]></category>
+		<description>
+		<![CDATA[
+		<p>The problem with the QAD application were due to the architecture of the rawData (synchronous) service.  When this service would fail it would cause all other services to fail.  As a first step in correcting the problem, we have disabled the rawData (synchronous) service.  Please use only the rawDataNotify (asynchronous) service.  If you attempt the rawData service you will get an error.  We expect the rawDataNotify service to be more stable from this point forward.</p>
+		]]></description>
+		</item>
+
+		<item>
+		<title>AirData is up and running</title>
+		<pubDate>Mon, 09 Sep 2013 12:40:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00030</guid>		
+		<category><![CDATA[Unscheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>This morning's problem has been resolved, and AirData is back up and running. We're sorry for any inconvenience.</p>
+		]]></description>
+		</item>
+
+		<item>
+		<title>The AirData Site is experiencing technical problems</title>
+		<pubDate>Mon, 09 Sep 2013 09:09:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00029</guid>		
+		<category><![CDATA[Unscheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>The AirData Site is experiencing technical problems. We are working to resolve the problems and will post a notice to this feed as soon as is AirData back on-line.</p>
+		]]></description>
+		</item>
+
+		<item>
+		<title>AirData will not be available on Saturday, September 7 from 6am to 12pm (Eastern)</title>
+		<pubDate>Fri, 09 Aug 2013 15:45:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00028</guid>		
+		<category><![CDATA[Scheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>The AQS Data Mart will be down for scheduled maintenance on Saturday, September 7 from 6am to 12pm (Eastern).  AirData tools will not be functional during this time.</p>
+		]]></description>
+		</item>
+
+		<item>
+		<title>The Query Air Data (QAD) service is not working</title>
+		<link>https://ofmext.epa.gov/AQDMRS/aqdmrs.html</link>
+		<pubDate>Wed, 31 Jul 2013 15:45:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00027</guid>		
+		<category><![CDATA[QAD Status]]></category>
+		<description>
+		<![CDATA[
+		<p>We are currently experiencing network problems at our data center that prevent the QAD application from working.  We have attempted corrective action, but without success.  We will continue to try to resolve the problem.</p>
+		]]></description>
+		</item>
+
+		<item>
+		<title>The Concentration Map tool is fixed</title>
+		<link>http://www.epa.gov/airquality/airdata/ad_viz_mapdays.html</link>
+		<pubDate>Mon, 20 May 2013 13:10:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00026</guid>		
+		<category><![CDATA[Announcement]]></category>
+		<description>
+		<![CDATA[
+		<p>This tool has been down for a few weeks.  We are pleased to report that it is working again as of Monday, May 20th.</p>
+		]]></description>
+		</item>
+
+		<item>
+		<title>AirData is up and running</title>
+		<pubDate>Fri, 03 May 2013 09:00:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00025</guid>		
+		<category><![CDATA[Unscheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>This morning's problem has been resolved, and AirData is back up and running today. We're sorry for any inconvenience.</p>
+		]]></description>
+		</item>
+
+		<item>
+		<title>The AirData Site is experiencing technical problems</title>
+		<pubDate>Fri, 03 May 2013 08:30:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00024</guid>		
+		<category><![CDATA[Unscheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>The AirData Site is experiencing technical problems. We are working to resolve them and will get AirData back on-line as soon as possible.</p>
+		]]></description>
+		</item>
+
+		<item>
+		<title>AirData will not be available on Saturday, Apr 27 from 3am to 11am (Eastern)</title>
+		<pubDate>Wed, 24 Apr 2013 14:55:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00023</guid>		
+		<category><![CDATA[Scheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>The database that AirData uses is being moved to new hardware.  While this is happening the system will not be able to provide data.  We anticipate the down time to be on Saturday, April 27th from 3am (eastern) to 11am (eastern).   It might be available sooner, but if problems are encountered, the down time could be extended.  After the move, the speed of your requests will be faster, so thanks for bearing with us through the transition.</p>
+		]]></description>
+		</item>
+		
+		<item>
+		<title>AirData is up and running</title>
+		<pubDate>Tue, 23 Apr 2013 08:03:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00022</guid>		
+		<category><![CDATA[Unscheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>The AirData website had technical problems yesterday afternoon. The problem has been resolved, and AirData is back up and running today. We're sorry for any inconvenience this may have caused you.</p>
+		]]></description>
+		</item>
+		
+		<item>
+		<title>The AirData Site is experiencing technical problems</title>
+		<pubDate>Mon, 22 Apr 2013 14:03:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00021</guid>		
+		<category><![CDATA[Unscheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>The AirData Site is experiencing technical problems. We are working to resolve them and will get AirData back on-line as soon as possible.</p>
+		]]></description>
+		</item>
+		
+		<item>
+		<title>AirData will not be available on Saturday, Apr 20 from 3am to 11am (Eastern)</title>
+		<pubDate>Thu, 18 Apr 2013 14:30:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00020</guid>		
+		<category><![CDATA[Scheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>The database that AirData uses is being moved to new hardware.  While this is happening the system will not be able to provide data.  We anticipate the down time to be on Saturday, April 20th from 3am (eastern) to 11am (eastern).   It might be available sooner, but if problems are encountered, the down time could be extended.  After the move, the speed of your requests will be faster, so thanks for bearing with us through the transition.</p>
+		]]></description>
+		</item>
+
+		<item>
+		<title>PM2.5 AQI breakpoints have changed</title>
+		<pubDate>Tue, 19 Mar 2013 15:30:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00019</guid>		
+		<category><![CDATA[Announcement]]></category>
+		<description>
+		<![CDATA[
+		<p>As many of you know, on Dec. 14, 2012, US EPA took steps to protect the health of Americans from fine particle pollution by strengthening the annual health National Ambient Air Quality Standard (NAAQS) for fine particles (PM 2.5) to 12.0 micrograms per cubic meter and retaining the 24-hour PM 2.5 standard of 35 micrograms per cubic meter. As part of the December action, EPA also updated the Air Quality Index for PM 2.5. The effective date of the rule was March 18, 2013.
+<br><br>
+As of March 18, 2013, the AirData system reflects the revised AQI breakpoints for ALL years of data.
+<br><br>
+For a fact sheet on the revised standards and updated AQI breakpoints, visit:<br>
+<a href="http://www.epa.gov/airquality/particlepollution/2012/decfsstandards.pdf">http://www.epa.gov/airquality/particlepollution/2012/decfsstandards.pdf</a><br>
+To read the final rule, visit:<br>
+<a href="http://www.gpo.gov/fdsys/pkg/FR-2013-01-15/pdf/2012-30946.pdf">http://www.gpo.gov/fdsys/pkg/FR-2013-01-15/pdf/2012-30946.pdf</a>
+
+</p>
+		]]></description>
+		</item>
+
+		<item>
+		<title>PM2.5 AQI breakpoints will change soon</title>
+		<pubDate>Thu, 24 Jan 2013 15:55:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00018</guid>		
+		<category><![CDATA[Announcement]]></category>
+		<description>
+		<![CDATA[
+		<p>As many of you know, on Dec. 14, 2012, US EPA took steps to protect the health of Americans from fine particle pollution by strengthening the annual health National Ambient Air Quality Standard (NAAQS) for fine particles (PM 2.5) to 12.0 micrograms per cubic meter and retaining the 24-hour PM 2.5 standard of 35 micrograms per cubic meter. As part of the December action, EPA also updated the Air Quality Index for PM 2.5. The effective date of the rule is March 18, 2013.<br>
+The AirData system will be updated to reflect the revised AQI breakpoints on or in the days following March 18. We will send out an announcement the day the transition occurs. All data products that use the AQI will reflect the new breakpoints from that point forward.<br>
+For a fact sheet on the revised standards and updated AQI breakpoints, visit:<br>
+<a href="http://www.epa.gov/airquality/particlepollution/2012/decfsstandards.pdf">http://www.epa.gov/airquality/particlepollution/2012/decfsstandards.pdf</a><br>
+To read the final rule, visit:<br>
+<a href="http://www.gpo.gov/fdsys/pkg/FR-2013-01-15/pdf/2012-30946.pdf">http://www.gpo.gov/fdsys/pkg/FR-2013-01-15/pdf/2012-30946.pdf</a>
+
+</p>
+		]]></description>
+		</item>
+		
+		<item>
+		<title>The Query Air Data (QAD) service no longer supports anonymous access</title>
+		<link>https://ofmext.epa.gov/AQDMRS/aqdmrs.html</link>
+		<pubDate>Thu, 17 Jan 2013 13:45:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00017</guid>		
+		<category><![CDATA[QAD Status]]></category>
+		<description>
+		<![CDATA[
+		<p>Due to anonymous users overwhelming the Download Raw Data (Query Air Data) service, either accidentally or in an intentional denial of service, we are left with no option but to disallow anonymous access to the system. This began on the morning of Tuesday, January 15th and the system has been non-responsive since shortly thereafter. We apologize for any inconvenience in obtaining the data you need. Starting later today, January 17th, we will no longer allow anonymous queries. To request an account, please follow the instructions here: <a href="http://www.epa.gov/airdata/tas_Data_Mart_Registration.html#Data_Mart_Registration">http://www.epa.gov/airdata/tas_Data_Mart_Registration.html#Data_Mart_Registration</a>. As a reminder, you should never have more than 3 queries running at any given time. You should not consider the query &quot;complete&quot; until you have saved all resulting data to your local system. This is <strong>especially</strong> important if you are querying the system via a script.</p>
+		]]></description>
+		</item>
+
+		<item>
+		<title>AirData is up and running</title>
+		<link>http://www.epa.gov/airdata</link>
+		<pubDate>Thu, 09 Jan 2013 10:00:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00016</guid>		
+		<category><![CDATA[Unscheduled maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>The AirData website was affected by an agency-wide application outage yesterday afternoon. The problem has been resolved, and AirData is back up and running today. We're sorry for any inconvenience this may have caused you.</p>
+		]]></description>
+		</item>
+		
+		<item>
+		<title>The Query Air Data (QAD) / Download Raw Data system running again</title>
+		<link>https://ofmext.epa.gov/AQDMRS/aqdmrs.html</link>
+		<pubDate>Tue, 08 Jan 2013 16:30:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00015</guid>		
+		<category><![CDATA[QAD status]]></category>
+		<description>
+		<![CDATA[
+		<p>The Query Air Data (QAD) / Download Raw Data system was inoperable for a period of several days due to server problems. All requests received an 'internal server error' message. The problems have been resolved and all QAD services should be working now. We're sorry for any inconvenience this may have caused you.</p>
+		]]></description>
+		</item>
+
+		<item>
+		<title>The AQS Data Mart will be down for scheduled maintenance on Saturday, Nov 10 from 6am until noon</title>
+		<pubDate>Fri, 09 Nov 2012 11:30:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00014</guid>		
+		<category><![CDATA[Scheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>The AQS Data Mart will be down for scheduled maintenance on Saturday, November 10 from 6 a.m. until 12 noon.  AirData tools will not be functional during this time.</p>
+		]]></description>
+		</item>
+
+		<item>
+		<title>Raw Data Download working again</title>
+		<link>https://ofmext.epa.gov/AQDMRS/aqdmrs.html</link>
+		<pubDate>Thu, 23 Oct 2012 09:30:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00013</guid>		
+		<category><![CDATA[QAD status]]></category>
+		<description>
+		<![CDATA[
+		<p>Sometime over the weekend the <a href="https://ofmext.epa.gov/AQDMRS/aqdmrs.html">Raw Data Download services</a> stopped working. Users were greeted with an "Internal Server error" message when they attempted to download their results. This problems has been fixed and the services are again working. Sorry for any inconvenience.</p>
+		]]></description>
+		</item>
+
+		<item>
+		<title>The new Query Air Data tool provides raw data</title>
+		<link>https://ofmext.epa.gov/AQDMRS/aqdmrs.html</link>
+		<pubDate>Thu, 27 Sep 2012 15:30:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00012</guid>		
+		<category><![CDATA[New Feature]]></category>
+		<description>
+		<![CDATA[
+		<p>The new <a href="https://ofmext.epa.gov/AQDMRS/aqdmrs.html">Query Air Data</a> tool provides raw data for a specific location and time for any pollutant.</p>
+		]]></description>
+		</item>
+		
+		
+		<item>
+		<title>Interactive Map layers now show active vs. inactive monitors</title>
+		<link>http://www.epa.gov/airquality/airdata/ad_maps.html</link>
+		<pubDate>Thu, 10 May 2012 16:30:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00011</guid>		
+		<category><![CDATA[New Feature]]></category>
+		<description>
+		<![CDATA[
+		<p>The <a href="ad_maps.html">interactive map</a> now shows which monitors are active or inactive. In addition, the markers are larger and easier to see on the map!</p>
+		]]></description>
+		</item>
+		
+		
+		<item>
+		<title>CORRECTION and reformatting of CO annual summary statistics</title>
+		<link>http://www.epa.gov/airquality/airdata/ad_rep_mon.html</link>
+		<link>http://www.epa.gov/airquality/airdata/ad_rep_con.html</link>
+		<pubDate>Mon, 09 Apr 2012 15:50:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00010</guid>		
+		<category><![CDATA[Correction]]></category>
+		<description>
+		<![CDATA[
+		<p><a href="http://www.epa.gov/airquality/airdata/ad_rep_con.html">Air Quality Statistics reports</a> and <a href="http://www.epa.gov/airquality/airdata/ad_rep_mon.html">Monitor Values reports</a> (for CO) generated prior to April 9, 2012 on AirData provided the 2nd max instead of the <em>non-overlapping</em> 2nd max for CO (8-hour). The non-overlapping 2nd max is associated with the 8-hour CO standard.  These AirData reports now provide the non-overlapping 2nd max for CO (8-hour). Also, these reports now show annual CO statistics with one decimal place.</p>
+		]]></description>
+		</item>
+		
+		
+		<item>
+		<title>Map individual states with Concentration Map</title>
+		<link>http://www.epa.gov/airquality/airdata/ad_viz_mapdays.html</link>
+		<pubDate>Wed, 14 Mar 2012 15:50:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00009</guid>		
+		<category><![CDATA[New Feature]]></category>
+		<description>
+		<![CDATA[
+		<p>You can now map individual states with the <a href="http://www.epa.gov/airquality/airdata/ad_viz_mapdays.html">Concentration Map</a>.</p>
+		]]></description>
+		</item>
+		
+		
+		<item>
+		<title>The AQS Data Mart will be down for scheduled maintenance</title>
+		<pubDate>Fri, 09 Mar 2012 08:55:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00008</guid>		
+		<category><![CDATA[Scheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>The AQS Data Mart will be down for scheduled maintenance on Saturday, March 10 from 6 a.m. until 12 noon.  AirData tools will not be functional during this time.</p>
+		]]></description>
+		</item>
+		
+		
+		<item>
+		<title>The AQS Data Mart will be down for scheduled maintenance</title>
+		<pubDate>Fri, 02 Mar 2012 09:59:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00007</guid>		
+		<category><![CDATA[Scheduled Maintenance]]></category>
+		<description>
+		<![CDATA[
+		<p>The AQS Data Mart will be down for scheduled maintenance on Sunday, March 4 from 6 a.m. until 12 noon.  AirData tools will not be functional during this time.</p>
+		]]></description>
+		</item>
+		
+		
+		<item>
+		<title>Spreadsheet version of monitoring network maps now available</title>
+		<link>http://www.epa.gov/airquality/airdata/ad_maps.html#csvfiles</link>
+		<pubDate>Mon, 27 Feb 2012 14:19:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00006</guid>		
+		<category><![CDATA[New Feature]]></category>
+		<description>
+		<![CDATA[
+		<p><a href="http://www.epa.gov/airquality/airdata/ad_maps.html#csvfiles">Spreadsheet versions</a> of the monitoring network map layers are now available.</p>
+		]]></description>
+		</item>
+		
+		
+		<item>
+		<title>AirData Webinar recording now available</title>
+		<link>http://epa.gov/air/oaqps/eog/broadcast.html#airdata021212</link>
+		<pubDate>Wed, 22 Feb 2012 14:04:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00005</guid>		
+		<category><![CDATA[New Feature]]></category>
+		<description>
+		<![CDATA[
+		<p>See a demo of the tools available on this website. The February 9th <a href="http://epa.gov/air/oaqps/eog/broadcast.html#airdata021212">AirData Webinar</a> is now on-line.</p>
+		]]></description>
+		</item>
+		
+		
+		<item>
+		<title>New Tile Plot feature</title>
+		<link>http://epa.gov/airquality/airdata/ad_viz_tile.html</link>
+		<pubDate>Wed, 22 Feb 2012 12:19:49 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00004</guid>		
+		<category><![CDATA[New Feature]]></category>
+		<description>
+		<![CDATA[
+		<p>The <a href="ad_viz_tile.html">Tile Plot</a> has a new feature. By mousing-over each day in the plot, you can see which monitor is responsible for the daily max AQI value.</p>
+		]]></description>
+		</item>
+
+
+		<item>
+		<title>Ozone exceedances vizualization tool now available</title>
+		<link>http://epa.gov/airquality/airdata/ad_viz_ozcompare.html</link>
+		<pubDate>Thu, 22 Sep 2011 15:42:44 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00003</guid>		
+		<category><![CDATA[New Feature]]></category>
+		<category><![CDATA[Ozone Tools]]></category>
+		<description>
+		<![CDATA[
+		<p>The <a href="http://epa.gov/airquality/airdata/ad_viz_ozcompare.html">Ozone Exceedances</a> visualization tool is now available. Use it to compare ozone exceedances from one year to the next.</p>
+		]]></description>
+		</item>
+
+
+		<item>
+		<title>Data download from each vizualization tool now available</title>
+		<pubDate>Wed, 21 Sep 2011 08:26:15 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00002</guid>		
+		<category><![CDATA[New Feature]]></category>
+		<description>
+		<![CDATA[
+		<p>You can now get underlying data for each visualization tool. The download link is provided with each plot.</p>
+		]]></description>
+		</item>
+
+
+		<item>
+		<title>New AQI plot</title>
+		<pubDate>Tue, 06 Sep 2011 11:05:53 -0400</pubDate>
+		<author>airdata@epa.gov (AirData Webmaster)</author>
+		<guid isPermaLink="false">airdatainfo00001</guid>		
+		<category><![CDATA[New Feature]]></category>
+		<description>
+		<![CDATA[
+		<p>The new AQI Plot allows you to compare AQI values for any two AQI pollutants.</p>
+		]]></description>
+		</item>
+
+
+</channel>
+</rss>

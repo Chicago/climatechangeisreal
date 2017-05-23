@@ -1,0 +1,34 @@
+"Figure 1. Frequency of Flooding Along U.S. Coasts, 2010–2015 Versus 1950–1959",,,,
+Source: EPA's Climate Change Indicators in the United States: www.epa.gov/climate-indicators,,,,
+"Data source: NOAA, 2016",,,,
+Web update: August 2016,,,,
+Units: average number of flood days per year,,,,
+,,,,
+Site name,Latitude,Longitude,1950s avg,2010s avg
+"Boston, MA",42.355,-71.0517,1.8,6.833333333
+"Providence, RI",41.8067,-71.4017,1,2.333333333
+New London,41.355,-72.0867,0.8,1.5
+"Montauk, NY",41.0483,-71.96,0.666666667,2
+"Kings Point, NY",40.81,-73.765,4.1,16.66666667
+"Battery, NY",40.7,-74.015,1,4
+"Sandy Hook, NJ",40.4667,-74.01,2.1,25
+"Atlantic City, NJ",39.355,-74.4183,1.8,24.5
+"Philadelphia, PA",39.93333,-75.14167,2.555555556,13
+"Lewes, DE",38.7817,-75.12,3.714285714,22.5
+"Baltimore, MD",39.26692,-76.57933,2.2,15.66666667
+"Annapolis, MD",38.98328,-76.48156,4,46.33333333
+Washington D.C.,38.8733,-77.0217,6,32.16666667
+"Sewell Point, VA",36.9467,-76.33,0.9,7.5
+"Wilmington, NC",34.2267,-77.9533,0.9,49.16666667
+"Charleston, SC",32.7817,-79.925,2.444444444,26.33333333
+"Fort Pulaski, GA",32.0367,-80.9017,2.4,19
+"Fernandina Beach, FL",30.6717,-81.465,0.5,2.5
+"Mayport, FL",30.3967,-81.43,0.4,6.5
+"Key West, FL",24.5533,-81.8083,0,3.833333333
+"St Petersburg, FL",27.76,-82.6267,0.111111111,0
+"Galveston_Bay, TX",29.31,-94.7933,0.1,0
+"Port Isabel, TX",26.06,-97.215,0.9,10.33333333
+"La Jolla, CA",32.86689,-117.25714,0.5,6.333333333
+"San Francisco, CA",37.8063,-122.4659,3.6,11.66666667
+"Seattle, WA",47.60264,-122.33931,0.9,3.333333333
+"Honolulu, HI",21.3067,-157.867,1.2,5.333333333
