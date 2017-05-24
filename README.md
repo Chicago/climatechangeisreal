@@ -1,6 +1,6 @@
 # Climate Change is Real
 
-This repository contains copies of the websites, data, and other information that was unceremoniously removed from the Environmental Protection Agency. While the EPA removed the websites, it does not eliminate the risk the climate change poses to people. These pages provide scientifically-based information about climate change, the risk it poses, and what we can do to combat it.
+This repository contains copies of the climate change websites, data, and other information that was unceremoniously removed from the Environmental Protection Agency. While the EPA removed the websites, it does not eliminate the risk the climate change poses to people. These pages provide scientifically-based information about climate change, the risk it poses, and what we can do to combat it.
 
 This repository allows others to republish information on climate change on their own website, such as [cityofchicago.org/climatechangeisreal](https://www.cityofchicago.org/climatechangeisreal), so people can still access this vital information. Republishing this information across multiple organizations helps raise the profile of climate change risks even higher and makes a statement that the science that demonstrates the rise in global temperatures cannot simply be deleted.
 
