@@ -10,6 +10,8 @@ We invite others to help maintain this repository. If you notice any broken link
 
 ## Hosting climatechangeisreal
 
+We recommend that these websites are not hosting within your content management system (CMS). Since these are static files, they can be hosted on a web server with some simple configuration.
+
 To begin, clone the repository to your preferred web server with `git clone https://github.com/Chicago/climatechangeisreal.git`.
 
 Configure your web server using the following instructions. We also recommend that you automatically update the repository on a regular basis with a cron job or scheduled task with `git pull origin master`.
