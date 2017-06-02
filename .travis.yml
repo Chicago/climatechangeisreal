@@ -1,0 +1,26 @@
+language: ruby
+sudo: required
+warnings_are_errors: true
+rvm:
+  - 2.2.2
+script:
+  - bundle install
+  - bundle exec jekyll build
+env:
+- global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+notifications:
+  email:
+    on_success: change
+    on_failure: change
+deploy:
+  provider: s3
+  access_key_id: AKIAIRGN7DBZU34NCQGQ
+  secret_access_key:
+    secure: QR8y4PXxNxisetTR5g7usT62KmTIgKFbZx/4VNnivXPwg3o/+1GpPMo3doT4F04H21CvqCmXHriKbfk0CgtL7oMA8RDnhx7sonVva+OpjrsDtSJ3YKjf+Ds4rfUkYA6i9nXyNDIWelLR6MYh7Ya0kbvSmMx1tKORk5dlxk1aRlgXojZZHCKUcOY8e2SnT1w1kti/QXT2pe7ZNVNg7mE8kW4T7+0m2s2RRgtKkY8TmC34onlLiz7cMYF4xyIP/O/OmuEDMNw/dmYrYG93lQkaX2R4BCJtn+DduicGfE/pavavJW9l3FKXUW7Iyw0mO5J2p8aiq7wGggT/wFaqFZlqh1EgQWa8E3rccwu0fDqmWHXsFp/AbJLdYAB1p7GJkF+862ZbrqpAfzSIX8fE8DvoDZ5wxWpAzBt15GZCvjeAIJY2bZByDk72Lj9iCEZhzKMsVWES7+mG3YNW6YXCZomjdz/YR2OkbLsLSqw9QueIuQ6byl1fRfHWqGRyDu3MGWu9pJm9CvVz7KtkLOvbHMFvOHErTJs8VrUflO6+Iu2o9hCQ1/gM2cfgrbuWpLzI5pyMemZ1jCq03uvvoE+E71oYT7GUTy+EnE4mPNQvM2h8pviM5cQIVNRoQntXOqVLdQz4JasCADIx0jfIHV1cTxObsYUDQMlrudmidIBP/h+KxKw=
+  skip_cleanup: true
+  bucket: climatechangeisreal
+  local-dir: _site/
+  on:
+    repo: Chicago/climatechangeisreal
+    branch: master
