@@ -10,7 +10,15 @@ We invite others to help maintain this repository. If you notice any broken link
 
 ## Hosting climatechangeisreal
 
-We recommend that these websites are not hosting within your content management system (CMS). Since these are static files, they can be hosted on a web server with some simple configuration.
+There are two ways the website can be hosted in your own domain by either embedding an existing website or hosting the files on your own web servers.
+
+### Embed Website
+
+An unbranded, static copy of the website is hosted at http://climatechangeisreal.s3-website.us-east-2.amazonaws.com/. This website can be embedded using an `<iframe>` on your domain. These files are updated once this repository is updated, ensuring minimal long-term maintenance.
+
+Please note, this is hosted on an "http" URL, so it will result in mixed-content warnings if embedded on "https" sites. 
+
+### Host Your Own
 
 To begin, clone the repository to your preferred web server with `git clone https://github.com/Chicago/climatechangeisreal.git`.
 
