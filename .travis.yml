@@ -23,4 +23,4 @@ deploy:
   local-dir: _site/
   on:
     repo: Chicago/climatechangeisreal
-    branch: master
+    branch: dev
