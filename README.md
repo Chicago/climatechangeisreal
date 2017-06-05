@@ -24,6 +24,8 @@ To begin, clone the repository to your preferred web server with `git clone http
 
 Configure your web server using the following instructions. We also recommend that you automatically update the repository on a regular basis with a cron job or scheduled task with `git pull origin master`.
 
+If git is not a viable solution, you can also simply [download the entire contents](https://github.com/Chicago/climatechangeisreal/archive/master.zip) as a ZIP file.
+
 #### Apache
 
 To host the site in Apache, you need the following Rewrite rules:
