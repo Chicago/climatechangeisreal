@@ -267,7 +267,7 @@ $(document).ready(function () {
         var href = $(this).attr("href");
         if (href.indexOf("#") >-1 ) {
             return true;
-        }
+        } 
          
         if (href.startsWith("/")) {
             if (href.endsWith("/")) {
