@@ -259,9 +259,27 @@ $(document).ready(function () {
            }
        }
     );
-     
+
     $("#brand-menu").load("/branding/menu.html");
     $("#brand-footer").load("/branding/footer.html");
+
+    $("a").on("click", function () {
+        var href = $(this).attr("href");
+        if (href.indexOf("#") >-1 ) {
+            return true;
+        }
+         
+        if (href.startsWith("/")) {
+            if (href.endsWith("/")) {
+                href = href.slice(0, -1);
+                alert(href);
+            }
+            href = href + "_.html";
+            document.location.href = href;
+            return false; 
+        }
+        return true;
+    });
 
 
 
