@@ -10,4 +10,5 @@
 * [Portland, OR](http://www.portlandoregon.gov/bps/climatechangeisreal)
 * [San Francisco, CA](http://epaclimatechange.sfgov.org/)
 * [Seattle, WA](http://seattle.gov/climatechangeisreal)
+* [South Bend, IN](http://climatechange.southbendin.gov/)
 * [St. Louis, MO](https://climatechange.stlouis-mo.gov/)
