@@ -4,6 +4,8 @@ This repository contains copies of the climate change websites, data, and other 
 
 This repository allows others to republish information on climate change on their own website, such as [cityofchicago.org/climatechangeisreal](https://www.cityofchicago.org/climatechangeisreal), so people can still access this vital information. Republishing this information across multiple organizations helps raise the profile of climate change risks even higher and makes a statement that the science that demonstrates the rise in global temperatures cannot simply be deleted.
 
+A list of cities who republished these websites are available [here](cities.md).
+
 ## Contributing Changes
 
 We invite others to help maintain this repository. If you notice any broken links, missing pages, or if more pages were removed, please [open an issue](/issues) or [submit a pull request](/pulls).
