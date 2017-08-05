@@ -122,7 +122,7 @@
 
 
 <g class="map">
-  <a xlink:href="/climate-impacts/climate-change-state-fact-sheets_.html" target="_top"><g class="region" data-name="factsheets" data-selected="false">
+  <a xlink:href="/climate-impacts/climate-change-state-fact-sheets_.html" target="_parent"><g class="region" data-name="factsheets" data-selected="false">
     <path class="state" d="M783.8,324.4h-2.1v2.5h2.1c0.8,0,1.4-0.5,1.4-1.3C785.1,324.9,784.6,324.4,783.8,324.4z M792.1,324.4h-1.7v5.8
     h1.7c1.8,0,2.9-1.3,2.9-2.9C795,325.7,794,324.4,792.1,324.4z M792.1,324.4h-1.7v5.8h1.7c1.8,0,2.9-1.3,2.9-2.9
     C795,325.7,794,324.4,792.1,324.4z M783.8,324.4h-2.1v2.5h2.1c0.8,0,1.4-0.5,1.4-1.3C785.1,324.9,784.6,324.4,783.8,324.4z
@@ -136,7 +136,7 @@
     C785.1,324.9,784.6,324.4,783.8,324.4z M783.8,324.4h-2.1v2.5h2.1c0.8,0,1.4-0.5,1.4-1.3C785.1,324.9,784.6,324.4,783.8,324.4z
      M783.8,324.4h-2.1v2.5h2.1c0.8,0,1.4-0.5,1.4-1.3C785.1,324.9,784.6,324.4,783.8,324.4z"/>
   </g></a>
-  <a xlink:href="/climate-impacts/climate-impacts-international_.html" target="_top"><g class="region" data-name="international" data-selected="false">
+  <a xlink:href="/climate-impacts/climate-impacts-international_.html" target="_parent"><g class="region" data-name="international" data-selected="false">
     <path class="state" d="M166.2,5.6c-25.2,0-45.7,20.5-45.7,45.7s20.5,45.7,45.7,45.7c25.2,0,45.7-20.5,45.7-45.7
       S191.4,5.6,166.2,5.6z M210.1,52.2c-0.2-0.1-0.3-0.3-0.4-0.8c-0.1-0.4-0.2-0.6-0.2-0.6c-0.2,0-0.3-1.5-0.2-1.9
       c0.1-0.4,0.4-0.4,0.4-0.1c0,0.1,0.1,0.2,0.2,0.2c0.1,0,0.2,0.1,0.2,0.2c0,0.1,0.1,0.2,0.2,0.2c0,0,0,0,0,0c0,0.6,0,1.2,0,1.8
@@ -318,7 +318,7 @@
       c0,0.3-0.4,0.6-0.6,0.5c-0.1-0.1-0.5-0.1-0.9,0c-0.6,0.1-0.6,0.1-0.4,0.2c0.3,0.1,0.3,0.1-0.1,0.1c-0.2,0-0.5,0.1-0.7,0.1
       c-0.2,0-0.3,0.1-0.3,0c0,0,0.2-0.3,0.3-0.5c0.2-0.3,0.6-0.4,1.1-0.4c0.4,0,0.9-0.1,1.2-0.2C160.2,10.2,160.3,10.2,160.3,10.4z"/>
   </g></a>
-  <a xlink:href="/climate-impacts/climate-impacts-us-islands_.html" target="_top"><g class="region" data-name="ustropical" data-selected="false">
+  <a xlink:href="/climate-impacts/climate-impacts-us-islands_.html" target="_parent"><g class="region" data-name="ustropical" data-selected="false">
     <path id="HI" class="state" d="M196.8,358.8c-2-1.2-5.2-4.4-3.2-6s0-1.6-0.8-4c1.2-2-0.4-3.2-0.4-10c-0.4-5.6,3.2-6.8,3.6-14.1
     c0.2-4,3.6-0.8,6-0.8s4.8,4.4,8.8,6.4s3.6,4,4,7.2c6.4-1.2,1.6,1.6,4.4,3.6c2.8,2,5.6,6,3.2,5.6c-2.4-0.4-7.6,6-12.4,6l-8,9.6
     C201.2,364,199.2,362,196.8,358.8z M180.8,304.2c-2.4-5.6-9.6-4.4-5.6,1.2c4.8,4,5.2,2,4,5.6c-1,3,9.6,2.4,12-1.6s-1.2-0.8-2.8-4
@@ -341,7 +341,7 @@
         c0.7,0.7,2.4,2.4,2.9,3.1C117.3,366.4,118.7,365.7,119.6,365.2z"/>
   </g></a>
 
-<!--<a xlink:href="/climate-impacts/climate-impacts-us-islands_.html" target="_top"><g class="region" data-name="hawaii" data-selected="false">
+<!--<a xlink:href="/climate-impacts/climate-impacts-us-islands_.html" target="_parent"><g class="region" data-name="hawaii" data-selected="false">
   <path id="HI" class="state" d="M196.8,358.8c-2-1.2-5.2-4.4-3.2-6s0-1.6-0.8-4c1.2-2-0.4-3.2-0.4-10c-0.4-5.6,3.2-6.8,3.6-14.1
     c0.2-4,3.6-0.8,6-0.8s4.8,4.4,8.8,6.4s3.6,4,4,7.2c6.4-1.2,1.6,1.6,4.4,3.6c2.8,2,5.6,6,3.2,5.6c-2.4-0.4-7.6,6-12.4,6l-8,9.6
     C201.2,364,199.2,362,196.8,358.8z M180.8,304.2c-2.4-5.6-9.6-4.4-5.6,1.2c4.8,4,5.2,2,4,5.6c-1,3,9.6,2.4,12-1.6s-1.2-0.8-2.8-4
@@ -357,7 +357,7 @@
 
 
 
-  <a xlink:href="/climate-impacts/climate-impacts-alaska_.html" target="_top"><g class="region" data-name="alaska" data-selected="false">
+  <a xlink:href="/climate-impacts/climate-impacts-alaska_.html" target="_parent"><g class="region" data-name="alaska" data-selected="false">
     <path id="AK" class="state" d="M154.6,196.7l-7.5-77.5c0-2-3-3-5-2.5c-2,0.5-0.5-6-4.5,0c0,0-4-2.3-5.5-0.7c-1.5,1.5-1-1.5-4-1
         c-2-0.5-3.5-2-5-1c-0.2-3.5-3.2-0.5-3.8-1.8c-1.3-0.5-3.3-0.2-3.8,0.8c-0.5,1-0.2-1.5-3.3-2.3c0.2-2.3-1.1-4.6-3.3-2.5
         c-1.5,1.5,4.5,1.7,1.8,3.2c-0.8,1.3-1.3,1.3-2.3,0c-0.5-1.5-0.2-2.2-1.3-2.5c-1-0.3,0.8-3.3-1.5-2.5c-2.3,0.8-2.3,1-2.3,2.5
@@ -387,7 +387,7 @@
         c-2-0.5-1.5-2.3-2.8-3.5c-1.3-1.3-4.3-4.5-4.5-5.7c-0.2-1.3-4.2-5.1-5-5.8c-8-6.5-8.8-14-12.8-9c-3.2,3.5-6.2,7.5-7.7,3.2
         c-1.5-4.2-5.7-0.8-6.5-5.8C162.8,197.5,153.1,206.7,154.6,196.7z"/>
   </g></a>
-  <a xlink:href="/climate-impacts/climate-impacts-southeast_.html" target="_top"><g class="region" data-name="southeast" data-selected="false">
+  <a xlink:href="/climate-impacts/climate-impacts-southeast_.html" target="_parent"><g class="region" data-name="southeast" data-selected="false">
     <polygon id="AR" class="state" points="548.6,248.6 548.6,244.4 548.6,241.3 548.6,238.8 548.8,232.4 548.2,229.1 548,227.6 
     547.2,222.8 547.2,222 546.4,217.7 552.4,217.5 554.9,217.5 557.9,217.3 560.8,217.3 561.2,217.3 566.2,217.2 567,217.2 569.9,217 
     574.1,217 574.3,217 579.4,216.8 582,216.6 582.4,216.6 585.5,216.4 589.3,216.2 591.7,216 595.8,215.8 596.6,215.8 596.8,216.2 
@@ -655,7 +655,7 @@
     l-4.7,0.6H692l-1,0.2l-2.8,0.4h-0.8l-0.4,0.2h-0.4l-0.2,0.2l-0.2-0.4l-0.4,0.6h-0.4l-0.6,0.4h-0.4l-1,0.6H683v0.4v0.2l-0.8,0.2
     l-1.2,0.4l-1.4,0.8l-1,0.4l-4.7,0.8h-0.4l-4.5,0.6h-0.7V229.7z"/>
   </g></a>
-  <a xlink:href="/climate-impacts/climate-impacts-northeast_.html" target="_top"><g class="region" data-name="northeast" data-selected="false">
+  <a xlink:href="/climate-impacts/climate-impacts-northeast_.html" target="_parent"><g class="region" data-name="northeast" data-selected="false">
     <path id="ME" class="state" d="M808.2,58.8l0.4-0.4l-0.2-0.4l1-0.6l1.2,1.2l-1.2,1l0.2,1l-1-0.4L808.2,58.8z M796.1,66.3l-0.6,1.2
     l1.6,3.1l-0.2,0.4h-0.2l-0.4-1.4l-0.6-0.4l0.2,1.2l-0.6,0.6l-0.2-0.2l-0.2-0.8h-0.4l-1,1.2l-0.4,1.5l0.6,1.4l-1,0.8v1.5l-0.4,1.2
     l-0.8,0.4l-0.4,3.7h-1.6l-0.2-0.6l-0.2-1l-1-0.4v-0.2l-1-0.8l-0.2-0.4v-0.6l-0.2-0.4v-0.6l-0.2-0.2l0.2-0.4l-0.2-0.2h-0.2l-0.8-2.7
@@ -808,7 +808,7 @@
     789,82.5 789.6,82 790.4,82.1 790.4,84.8 790,84.8 789.4,84.7 789.2,84.8 788.4,85.6 788.2,86.2 787.6,86.2 786.9,86.6 787.1,87.4 
     786.5,87.5 786.5,87.7 786.3,88.1 780.1,89.7 779.9,89.7"/>
   </g></a>
-  <a xlink:href="/climate-impacts/climate-impacts-midwest_.html" target="_top"><g class="region" data-name="midwest" data-selected="false">
+  <a xlink:href="/climate-impacts/climate-impacts-midwest_.html" target="_parent"><g class="region" data-name="midwest" data-selected="false">
     <polygon id="MN" class="state" points="569.3,110.8 565.9,111 562,111.2 560.8,111.2 556.2,111.4 555.8,111.4 551.3,111.6 
     549.7,111.6 546.4,111.6 543.6,111.8 541.6,111.8 537.3,111.8 536.7,111.8 531.9,111.8 531.2,111.8 527.2,111.8 525.2,111.8 
     521.1,111.8 521.1,107.1 521.1,102.3 521.1,97.9 521.1,96.5 521.1,94.2 521.1,91.9 521.3,87.8 521.1,87.7 520.9,87.3 520.5,86.5 
@@ -1009,7 +1009,7 @@
     l-1.2,1.7L625.4,73.6z M598.1,58.1l0.6-1l2-1.4l4.1-0.6l0.8,0.6l-0.2,0.4l-1.8,0.6L601,59l-1.6,3.1l-0.8-1.7l-1.2-0.2v-1.4
     L598.1,58.1z M597.1,46.4l-1,1.9l-2.6,1.2l-1,1.5l-1,0.6l-0.6-0.4v-0.4l0.4-0.8L597.1,46.4z"/>
   </g></a>
-  <a xlink:href="/climate-impacts/climate-impacts-great-plains_.html" target="_top"><g class="region" data-name="greatplains" data-selected="false">
+  <a xlink:href="/climate-impacts/climate-impacts-great-plains_.html" target="_parent"><g class="region" data-name="greatplains" data-selected="false">
     <polygon id="MT" class="state" points="365.3,85.5 365.3,85.7 365.5,85.9 365.5,86.3 365.3,86.3 365,86.3 365,86.7 364.8,86.9 
     365,87.4 365.2,87.6 365,87.6 365,87.8 364.2,87.4 363.8,87.4 363,87.2 362.8,87.4 362.2,87.4 362,87.4 361.8,87.6 361.2,86.9 
     360.6,86.9 360.2,87 359.9,86.9 359.7,87 359.5,86.9 359.1,87 358.9,86.9 358,86.7 357.8,86.5 357.8,86.3 357.6,86.1 357.2,86.3 
@@ -1180,7 +1180,7 @@
     l-0.2,0.2l-2.9-1l-1.4-1.2l-0.4-1.2l-2-1l-1.8-1.9l-0.4-1.7l-1-1.5v-1.7l0.4-1.2l-0.2-1.4l-1.2-1.5v-0.4l-0.4-0.2l-0.4-2.5l-1-1
     v-0.6l-0.8-0.2l-1.6-1.7h-0.6l-0.2-0.4l-0.4,0.2l-0.8-0.6l-0.2-0.8l-1.6-1.4l-0.4-1.4l-2-1.4L399.4,268.2z"/>
   </g></a>
-  <a xlink:href="/climate-impacts/climate-impacts-southwest_.html" target="_top"><g class="region" data-name="southwest" data-selected="false">
+  <a xlink:href="/climate-impacts/climate-impacts-southwest_.html" target="_parent"><g class="region" data-name="southwest" data-selected="false">
     <polygon id="NV" class="state" points="275.5,157.2 274.3,155.5 272.2,152.9 270.1,149.6 269.4,148.5 269.5,147.7 269.7,147.2 
     269.7,146.6 270.2,144.8 270.6,143.3 271.5,140 276.2,122.9 278.7,113.4 284.5,114.8 284.9,114.8 295.3,117.3 305.7,119.5 
     306.1,119.7 315.6,121.5 324.1,123.2 330.9,124.5 333.1,124.9 330.6,136.7 328.5,147.2 328,149.6 327.1,154.2 325,164.3 
@@ -1242,7 +1242,7 @@
     415.2,257.5 414.9,257.5 406,256.8 405.3,256.8 394,255.5 389.9,255.3 387.3,254.9 387.1,255.3 387.3,255.3 387.1,255.9 
     386.9,256.3 387.1,256.8 387.1,257.1 388,257.7 380,256.8 370.2,255.5 369.5,260.9 360.4,259.7"/>
   </g></a>
-  <a xlink:href="/climate-impacts/climate-impacts-northwest_.html" target="_top"><g class="region" data-name="northwest" data-selected="false">
+  <a xlink:href="/climate-impacts/climate-impacts-northwest_.html" target="_parent"><g class="region" data-name="northwest" data-selected="false">
     <path id="WA" class="state" d="M261.8,18.9l1.2-1.4h0.6l0.4,1.4l-0.2,0.4l-0.8-0.4l-1.2,0.6l1,0.6v1.7h0.6l0.8,1.2v0.8l-0.6,0.8
     l-0.4-0.4v-1l-0.8,0.2l-0.4-1l-0.2-2.1l-0.4-0.8L261.8,18.9z M260.4,16.2l-1-0.8l-0.4-0.8V14l0.6-0.8l0.2,0.4l0.6,1v0.2l0.4,0.2
     h-0.6v0.4L260.4,16.2z M264.7,20.5l-0.4-0.2l-0.4,1.2l0.6,1.2l-1-1.4v-1l0.4-0.6l1,0.4l0.4-0.4l-1.2-2.1l-1-0.2v-1.2l1-0.2l0.4,1
@@ -1317,48 +1317,48 @@
 
 
 <g class="labels">
-  <a xlink:href="/climate-impacts/climate-change-state-fact-sheets_.html" target="_top"><g class="label" data-name="factsheets">
+  <a xlink:href="/climate-impacts/climate-change-state-fact-sheets_.html" target="_parent"><g class="label" data-name="factsheets">
     <polygon points="846.2,270 846.2,292 751.2,292 751.2,270 773.7,270 773.7,251 823.7,251 823.7,270"/>
     <text transform="translate(779 268)">State</text>
     <text transform="translate(757 287)">Factsheets</text>
   </g></a>
-  <a xlink:href="/climate-impacts/climate-impacts-international_.html" target="_top"><g class="label" data-name="international">
+  <a xlink:href="/climate-impacts/climate-impacts-international_.html" target="_parent"><g class="label" data-name="international">
     <rect x="6.8" y="39.2" width="106" height="22"/>
     <text transform="translate(12 55)">International</text>
   </g></a>
-  <a xlink:href="/climate-impacts/climate-impacts-us-islands_.html" target="_top"><g class="label" data-name="ustropical">
+  <a xlink:href="/climate-impacts/climate-impacts-us-islands_.html" target="_parent"><g class="label" data-name="ustropical">
     <rect x="21" y="319" width="254.5" height="22"/>
     <text transform="translate(26 336)">Hawaii and U.S. Tropical Islands</text>
   </g></a>
-  <!--<a xlink:href="/climate-impacts/climate-impacts-us-islands_.html" target="_top"><g class="label" data-name="hawaii">
+  <!--<a xlink:href="/climate-impacts/climate-impacts-us-islands_.html" target="_parent"><g class="label" data-name="hawaii">
     <rect x="154.8" y="285.1" width="62" height="22"/>
     <text transform="translate(160 301)">Hawaii</text>
   </g></a>-->
-  <a xlink:href="/climate-impacts/climate-impacts-alaska_.html" target="_top"><g class="label" data-name="alaska">
+  <a xlink:href="/climate-impacts/climate-impacts-alaska_.html" target="_parent"><g class="label" data-name="alaska">
     <rect x="82.2" y="156.2" width="62" height="22"/>
     <text transform="translate(87 173)">Alaska</text>
   </g></a>
-  <a xlink:href="/climate-impacts/climate-impacts-southeast_.html" target="_top"><g class="label" data-name="southeast">
+  <a xlink:href="/climate-impacts/climate-impacts-southeast_.html" target="_parent"><g class="label" data-name="southeast">
     <rect x="645" y="259" width="88" height="22"/>
     <text transform="translate(650 276)">Southeast</text>
   </g></a>
-  <a xlink:href="/climate-impacts/climate-impacts-northeast_.html" target="_top"><g class="label" data-name="northeast">
+  <a xlink:href="/climate-impacts/climate-impacts-northeast_.html" target="_parent"><g class="label" data-name="northeast">
     <rect x="749" y="61" width="86" height="22"/>
     <text transform="translate(754 78)">Northeast</text>
   </g></a>
-  <a xlink:href="/climate-impacts/climate-impacts-midwest_.html" target="_top"><g class="label" data-name="midwest">
+  <a xlink:href="/climate-impacts/climate-impacts-midwest_.html" target="_parent"><g class="label" data-name="midwest">
     <rect x="596" y="133" width="75" height="22"/>
     <text transform="translate(602 150)">Midwest</text>
   </g></a>
-  <a xlink:href="/climate-impacts/climate-impacts-great-plains_.html" target="_top"><g class="label" data-name="greatplains">
+  <a xlink:href="/climate-impacts/climate-impacts-great-plains_.html" target="_parent"><g class="label" data-name="greatplains">
     <rect x="467" y="181" width="104" height="22"/>
     <text transform="translate(472 198)">Great Plains</text>
   </g></a>
-  <a xlink:href="/climate-impacts/climate-impacts-southwest_.html" target="_top"><g class="label" data-name="southwest">
+  <a xlink:href="/climate-impacts/climate-impacts-southwest_.html" target="_parent"><g class="label" data-name="southwest">
     <rect x="281" y="191" width="92" height="22"/>
     <text transform="translate(286 208)">Southwest</text>
   </g></a>
-  <a xlink:href="/climate-impacts/climate-impacts-northwest_.html" target="_top"><g class="label" data-name="northwest">
+  <a xlink:href="/climate-impacts/climate-impacts-northwest_.html" target="_parent"><g class="label" data-name="northwest">
     <rect x="237" y="69" width="90" height="22"/>
     <text transform="translate(242 86)">Northwest</text>
   </g></a>
