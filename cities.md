@@ -5,6 +5,7 @@
 * [Fayetteville, AR](http://www.fayetteville-ar.gov/3281/Climate-Change)
 * [Houston, TX](http://www.greenhoustontx.gov/climate-change-is-real.html)
 * [Milwaukee, WI](http://milwaukee.gov/ClimateChangeIsReal)
+* [Minneapolis, MN](http://www.minneapolismn.gov/sustainability/climate-action-goals/epaclimate)
 * [New Orleans, LA](http://climatechange.nola.gov/)
 * [Philadelphia, PA](http://beta.phila.gov/climatechangeisreal)
 * [Portland, OR](http://www.portlandoregon.gov/bps/climatechangeisreal)
